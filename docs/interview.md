@@ -19,13 +19,13 @@ qualquer solução tecnológica.
     R: Um software para gerenciar o salão de beleza. O principal objetivo é ter o salão inteiro em um único lugar.
         - Agenda: Marcar as clientes sem encaixe duplicado e enxergar o dia de cada profissional, já sabendo quanto tempo cada serviço leva.  Também quero diminuir as faltas, porque hoje umas 15% das clientes simplesmente não aparecem.
 
-        - Serviços e comissões: Tudo que foi feito fica registrado no atendimento, e a comissão de cada profissional sai calculada certinha. Hoje o fechamento da quinzena me toda um dia inteiro com calculadora e sempre dá discussão.
+        - Serviços e comissões: Tudo que foi feito fica registrado no atendimento, e a comissão de cada profissional sai calculada certinha. Hoje o fechamento da quinzena me toma um dia inteiro com calculadora e sempre dá discussão.
 
-        - Dinheiro do salão: Saber o que entrou e o que saiu, por forma de pagamento, e quais contas vão vencer.  No fim do mês eu quero saber se tive lucro de verdade, por que hoje eu sinceramente não sei.
+        - Dinheiro do salão: Saber o que entrou e o que saiu, por forma de pagamento, e quais contas vão vencer.  No fim do mês eu quero saber se tive lucro de verdade, porque hoje eu sinceramente não sei.
 
         - Organização da equipe: Criar tarefas e lembretes para mim, para a coordenadora e para as funcionárias. Coisas como "pagar a fornecedora dia 10" , "renovar o alvará" ou "limpar os pincéis", que hoje ficam em post-it e se perdem.
 
-        - Histórico das clientes: Guardar a fórmula da colaboração, as alergias, o que ela fez da última vez e com quem. Assim, se a profissional sair, eu não perco a cliente junto.
+        - Histórico das clientes: Guardar a fórmula da coloração, as alergias, o que ela fez da última vez e com quem. Assim, se a profissional sair, eu não perco a cliente junto.
 
         Organizar a agenda, acertar o dinheiro e parar de esquecer as coisas. E ver tudo pelo celular, de casa.
 
@@ -51,15 +51,15 @@ seus níveis de privilégio.
     
     - A dona: Precisa ver de tudo: agenda, dinheiro, comissões, relatórios, tarefas de todo mundo e as configurações. É quem define o preço de serviço e percentual de comissão.
 
-    - A Coordenadora: Braço direito da dona, cuida da agenda, abre o caixa do dia, faz a escala das meninas, controla o estoque e cria tarefas para a equipe. Vê quase tudomas tem coisa que a dona não quer que ela veja. 
+    - A Coordenadora: Braço direito da dona, cuida da agenda, abre o caixa do dia, faz a escala das meninas, controla o estoque e cria tarefas para a equipe. Vê quase tudo, mas tem coisa que a dona não quer que ela veja. 
 
     - A Recepcionista: Fica no balcão. Marca, remarca e confirma clientes, faz o check-in quando a cliente chega e recebe o pagamento no caixa. Não precisa mexer em comissão nem relatório.
         
-    - As Profissionais (Cabeleleira, manicure, etc.):São parceiras, a maioria é MEI. Cada uma tem que ver a própria agenda, a ficha das clientes que vai atender( alergia, fórmula de cor, etc.) e quanto já tem de comissão na quinzena. Assim ela confere ao longo da quinzena e não briga no fechamento. Também precisam ver as tarefas e lembretes que eu ou a Coordenadora mandarmos para elas.
+    - As Profissionais (Cabeleireira, manicure, etc.):São parceiras, a maioria é MEI. Cada uma tem que ver a própria agenda, a ficha das clientes que vai atender (alergia, fórmula de cor, etc.) e quanto já tem de comissão na quinzena. Assim ela confere ao longo da quinzena e não briga no fechamento. Também precisam ver as tarefas e lembretes que eu ou a Coordenadora mandarmos para elas.
         
     - As Auxiliares: Não atendem cliente direto e não ganham comissão. O único uso para elas é ver as tarefas delas, tipo checklist de abertura e fechamento e limpeza. Uma coisa bem simples, de preferência no celular.
         
-    - As Clientes: Eu adoraria que elas pudessem marcar sozinhas pelo celular, vendo os horários livres, e também cancelar ou remarcar. Isso tirar muita mensagem do whatsapp da recepção. Mas acho que isso pode ficar mais para frente, depois a gente vê. 
+    - As Clientes: Eu adoraria que elas pudessem marcar sozinhas pelo celular, vendo os horários livres, e também cancelar ou remarcar. Isso tira muita mensagem do whatsapp da recepção. Mas acho que isso pode ficar mais para frente, depois a gente vê. 
         
 
 5. Cada perfil terá permissões diferentes?
@@ -72,11 +72,11 @@ seus níveis de privilégio.
 
         - Serviços: preços e percentuais de comissão: Apenas a dona. Já aconteceu de mudarem o preço "Só para aquela cliente" sem me avisar. 
 
-        - Profissionais e usuários do sistema: Só a dona cadastra e define o que cada uma acessa. A coordenadora pode editar a escala e os horários das parceiras, mas não pode mexe em percentual de comissão. 
+        - Profissionais e usuários do sistema: Só a dona cadastra e define o que cada uma acessa. A coordenadora pode editar a escala e os horários das parceiras, mas não pode mexer em percentual de comissão. 
 
         - Despesas e contas a pagar: A dona e a coordenadora. A recepcionista só lança o que entra no caixa.
 
-        - Tarefas e lembretes: A dona cria para qualquer pessoa. A coordenadora cria para ela mesma e para a equipe, mas não para a dona. As profissionais e auxiliares ciram lembretes só para elas mesmas e marcam como feitas as tarefas que receberam.
+        - Tarefas e lembretes: A dona cria para qualquer pessoa. A coordenadora cria para ela mesma e para a equipe, mas não para a dona. As profissionais e auxiliares criam lembretes só para elas mesmas e marcam como feitas as tarefas que receberam.
 
     - Descontos: 
         
@@ -86,7 +86,7 @@ seus níveis de privilégio.
 
         - Acima desses valores apenas a dona. Se a cliente estiver lá na hora, a profissional pede pelo sistema e a dona aprova pelo celular.
 
-        - Todo desconto tem que ficar registrado: que deu e por quê.
+        - Todo desconto tem que ficar registrado: quem deu e por quê.
 
     - Quem vê informações sensíveis: 
         
@@ -100,13 +100,13 @@ seus níveis de privilégio.
 
     - Quem pode excluir: 
         
-        - Ninguém apaga nada de dinheiro. Nem pagamento, nem atendimento finalizado, nem lançamento do caixa. Se errou, cancela ou extorna com uma justificativa, e o registro original continua lá. Isso vale para a dona também, por que a contadora precisa disso certinho.
+        - Ninguém apaga nada de dinheiro. Nem pagamento, nem atendimento finalizado, nem lançamento do caixa. Se errou, cancela ou estorna com uma justificativa, e o registro original continua lá. Isso vale para a dona também, porque a contadora precisa disso certinho.
 
         - Caixa fechado não reabre, apenas com liberação da dona.
 
         - Cliente e profissional não se apagam, se desativam. Se a profissional saiu do salão, o histórico de atendimentos e comissões dela tem que continuar existindo. 
 
-        - Agendamento pode ser cancelado pela recepcionista, pela coordenadora ou pela dona. Mas deve registrar quem cancelou e quando, por que às vezes some horário e ninguém sabe o que aconteceu.
+        - Agendamento pode ser cancelado pela recepcionista, pela coordenadora ou pela dona. Mas deve registrar quem cancelou e quando, porque às vezes some horário e ninguém sabe o que aconteceu.
 
     No geral: Tudo que mexe com dinheiro ou com cliente fica registrado com o nome de quem fez. Se der problema, a dona pode ver o histórico.
 
@@ -120,13 +120,13 @@ Objetivo: mapear o que o sistema precisa fazer na prática.
     
     R:
 
-    - Clientes: nome, telefone celular, data de nascimento, email e cpf opcionais, Muita cliente não gosta de dar cpf. Como conheceu o salão: Instagram, indicação (de quem) passou na frente. Alergias e restrições em destaque Profissional prefererida e observações ("Gosta de café sem açucar", "não gosta de conversar", etc). Autorização para receber mensagens de whatsapp, por causa daquela lei de dados a LGPD.
+    - Clientes: nome, telefone celular, data de nascimento, email e cpf opcionais, Muita cliente não gosta de dar cpf. Como conheceu o salão: Instagram, indicação (de quem) passou na frente. Alergias e restrições em destaque Profissional preferida e observações ("Gosta de café sem açúcar", "não gosta de conversar", etc). Autorização para receber mensagens de whatsapp, por causa daquela lei de dados a LGPD.
 
     - Ficha técnica da cliente (dentro do cadastro dela): Fórmula de coloração: marca, tom, volume do oxidante e tempo de pausa, com data e quem fez. Ficha de estética (anamnese) para limpeza de pele e depilação: tipo de pele, medicamentos, gravidez; A esteticista preenche, e a cliente tem que concordar. Hoje isso é em papel e a cliente assina.
 
     - Profissionais e equipe: nome, função, contato, tipo de vínculo(MEI ou CLT), CNPJ do MEI e dados bancários ou chaves pix para o repasse. Quais serviços ela faz. A manicure não pode aparecer como opção para escova por exemplo. Escala: Dias, horários e almoço. Percentual de comissão em cada serviço, quando for diferente do padrão.
 
-    - Serviços: Nome, categoria (cabelo, unhas, estética, etc.): preço e duração estimada. Tempo de pausa? na coloração por exemplo a cliente fica uns 40 minutos com a tinta. Nesse tempo a cabeleleria consegue fazer uma escova em outra cliente. Hoje a gente perde muito horário por não aproveitar isso. Comissão padrão e se é química (para descontar o custo do produto antes da comissão, isso pode ser opncional). Preço "a partir de". Progressiva em cabelo longo é mais cara por exemplo, então a dona configura uma tabela de valores padrão para os tamanhos de cabelo de cliente: curto, médio, longo, extra longo/muito volume, etc. Relação tamanho x preço x duração média. Ao cadastar o serviço a dona escolhe o se o cálculo do preço vai usar essa tabela, por exemplo na hidratação, coloração e etc. Quando marca: se a recepção conhece a cliente, já escolhe o tamanho. Se é cliente nova, marca o tamanho "provável", e para ela aparece "a partir de R$ 50". Na hora do atendimento: a profissional confirma o tamanho real. Se marcaram "médio" e o cabelo é longo, ela troca para "longo". Ela pode fazer isso, porque está vendo o cabelo. Mas ela só escolhe entre as variações cadastradas. No caixa: a recepcionaista ou a coordenadora veem que mudou e de quanto para quanto. Fica registrado quem mudou. Às vezes tem um extra: a cliente pediu uma ampola a mais, ou o cabelo estava muito embaraçado. Para isso: A profissional não coloca acréscimo sozinha. Ela pede para a recepção ou para a coordenadora. A recepção ou a coordenadora podem lançar acréscimo, sempre com motivo. Se for um produto, o ideal é lançar como produto (a ampola), e não como "valor a mais", para baixar no estoque. A coordenadora pode acrescentar até 20% sobre o preço da variação. Mais que isso, só comigo. Valor menor que o da tabela é desconto, e segue aquela regra que te passei: recepção até 5%, coordenadora até 15% e acima disso só eu, sempre com motivo. desconto que eu dou por conta própria (cortesia, parceria com influenciadora) não pode reduzir a comissão da profissional. Ela trabalhou igual. Nesse caso a comissão é sobre o preço de tabela, e o salão absorve o desconto.
+    - Serviços: Nome, categoria (cabelo, unhas, estética, etc.): preço e duração estimada. Tempo de pausa? na coloração por exemplo a cliente fica uns 40 minutos com a tinta. Nesse tempo a cabeleireira consegue fazer uma escova em outra cliente. Hoje a gente perde muito horário por não aproveitar isso. Comissão padrão e se é química (para descontar o custo do produto antes da comissão, isso pode ser opcional). Preço "a partir de". Progressiva em cabelo longo é mais cara por exemplo, então a dona configura uma tabela de valores padrão para os tamanhos de cabelo de cliente: curto, médio, longo, extra longo/muito volume, etc. Relação tamanho x preço x duração média. Ao cadastrar o serviço a dona escolhe se o cálculo do preço vai usar essa tabela, por exemplo na hidratação, coloração e etc. Quando marca: se a recepção conhece a cliente, já escolhe o tamanho. Se é cliente nova, marca o tamanho "provável", e para ela aparece "a partir de R$ 50". Na hora do atendimento: a profissional confirma o tamanho real. Se marcaram "médio" e o cabelo é longo, ela troca para "longo". Ela pode fazer isso, porque está vendo o cabelo. Mas ela só escolhe entre as variações cadastradas. No caixa: a recepcionista ou a coordenadora veem que mudou e de quanto para quanto. Fica registrado quem mudou. Às vezes tem um extra: a cliente pediu uma ampola a mais, ou o cabelo estava muito embaraçado. Para isso: A profissional não coloca acréscimo sozinha. Ela pede para a recepção ou para a coordenadora. A recepção ou a coordenadora podem lançar acréscimo, sempre com motivo. Se for um produto, o ideal é lançar como produto (a ampola), e não como "valor a mais", para baixar no estoque. A coordenadora pode acrescentar até 20% sobre o preço da variação. Mais que isso, só comigo. Valor menor que o da tabela é desconto, e segue aquela regra que te passei: recepção até 5%, coordenadora até 15% e acima disso só eu, sempre com motivo. desconto que eu dou por conta própria (cortesia, parceria com influenciadora) não pode reduzir a comissão da profissional. Ela trabalhou igual. Nesse caso a comissão é sobre o preço de tabela, e o salão absorve o desconto.
 
     - Produtos e estoque: separar produto de revenda (shampoo, máscara para a cliente levar e etc) de produto de uso interno (tinta, oxidante, esmalte e etc). Quantidade, custo, preço de venda (no caso da revenda) e estoque mínimo para avisar quando estiver acabando.
 
@@ -134,13 +134,13 @@ Objetivo: mapear o que o sistema precisa fazer na prática.
 
     - Pacotes: Por exemplo, "4 escovas por R$160,00", com validade (60 dias, por exemplo). O sistema vai abatendo cada sessão usada.
 
-    - Financeiro ( as configurações): Formas de pagamento com a taxa de cada uma: Débito, crédito à vista, crédito parcelado, Pix e dinheiro. Isso é para descontar a taxa da maquininha certinho na comissão. Categorias de despesa: Aluguel, luz, água, produtos, salários, impostos, manutenção, marketing. 
+    - Financeiro (as configurações): Formas de pagamento com a taxa de cada uma: Débito, crédito à vista, crédito parcelado, Pix e dinheiro. Isso é para descontar a taxa da maquininha certinho na comissão. Categorias de despesa: Aluguel, luz, água, produtos, salários, impostos, manutenção, marketing. 
 
     - Salas e equipamentos: Tenho uma sala de estética só e dois lavatórios. Não adianta marcar duas limpezas de pele no mesmo horário, mesmo tendo duas profissionais livres. O sistema tem que entender isso.
 
     - Funcionamento do salão. Horário de funcionamento, feriados e dias fechados (fechamos uma semana no começo do ano).
 
-    - Modelos de tarefa: Os checklists que se repetem: Abertura e fechamento do salão, limpeza semanal, pagar aluguel todo dia 10, Cadastro uma vez e o sistema cria sozinho na data certa.
+    - Modelos de tarefa: Os checklists que se repetem: Abertura e fechamento do salão, limpeza semanal, pagar aluguel todo dia 5, Cadastro uma vez e o sistema cria sozinho na data certa.
 
 7. Quais operações do dia a dia o sistema deve executar? (ex: registrar um
    pagamento, emitir um documento, marcar um agendamento)
@@ -524,11 +524,11 @@ retrabalho durante o desenvolvimento.
 20. Existe mais de uma unidade, filial ou equipe que vai usar o mesmo
     sistema?
 
-    R: No momento apenas uma unidade porém a cliente disse que quer abrir uma segundo daqui um ano, a primeira versão já deve ser feita pensando na escalabilidade e na adição de uma segunda unidade
+    R: No momento apenas uma unidade porém a cliente disse que quer abrir uma segunda daqui um ano e meio, a primeira versão já deve ser feita pensando na escalabilidade e na adição de uma segunda unidade
 
 21. Existe prazo ou marco importante pra essa versão?
 
-    R: Não definido pois o projeto é para portifólio.
+    R: Não definido pois o projeto é para portfólio.
 
 22. O que definitivamente NÃO faz parte do escopo dessa versão?
 
@@ -574,9 +574,9 @@ retrabalho durante o desenvolvimento.
 
 ## Bloco 7: Anotações
 
-    - Cores: 1 - #D4A373 2 - #212529 3 - F8F9FA
+    - Cores: 1 - #D4A373 2 - #212529 3 - #F8F9FA
 
-    -  Exportação de relatório financeiro para a contadora. via planilha baixada no computador ou enviada no email. escolher o períodom, formato do arquivo. Ela precisa das informações de entradas, separadas por forma de pagamento; Apenas a coordenadora pode ver e exporta o relatório completo. A coordenadora exporta somente o caixa.
+    -  Exportação de relatório financeiro para a contadora. via planilha baixada no computador ou enviada no email. escolher o período, formato do arquivo. Ela precisa das informações de entradas, separadas por forma de pagamento; Apenas a dona pode ver e exporta o relatório completo. A coordenadora exporta somente o caixa.
     
-    -   As parceiras tem o direito de organizar o próprio horário, portanto: Elas podem pedir um bloqueio de horário pelo sistema, e a coordenadora aprova. A profissional escolhe dia e horário e coloca o motivo, médico, folga, curso, pessoal ou etc. A coordenadora ou a dona recebem o aviso e podem aprovar ou recusar. Enquanto não aprovar o horário aparece como bloqueio pendente na agenda geral então a recepcionista sabe que não deve marcar nada naquele horário; Folga ou dia todo devem pedir como pelo menos 7 dias de antecedência. Folga nos dias de maior fluxo só podem ser aprovados diretamente pela dona. Médico, ou banco e etc. Devem ser solicitados com pelo menos 48 horas de antecedência, Qualquer solicitação abaixo dos prazos até é efetuada mas exibe um alerta para o usuário e a coordenadora ou a dona decidem iberar ou não. Se já houver cliente marcada no horário solicitado o sistema não bloqueia por cima, mostra para a coordenadora ou a dona quais clientes serão afetadas para remarcar com outrar profissional ou outro horario (mostra profissionais e horarios disponíveis). E a cliente tem que ser avisada então cria tarefa para a recepcionista. A coordenadora e a dona podem bloquear o horário de qualquer uma na hora então as emergências são tradadas por fora do sistema, a profissional liga para a coordenadora diretamente (whatsapp ou ligação normal). A coordenadora/dona também podem configurar intervalos fixos, horários de almoço e o dia de folga padrão de cada profissional. No fim do mês o sistema calcula bloqueios e faltas de cada profissional
+    -   As parceiras tem o direito de organizar o próprio horário, portanto: Elas podem pedir um bloqueio de horário pelo sistema, e a coordenadora aprova. A profissional escolhe dia e horário e coloca o motivo, médico, folga, curso, pessoal ou etc. A coordenadora ou a dona recebem o aviso e podem aprovar ou recusar. Enquanto não aprovar o horário aparece como bloqueio pendente na agenda geral então a recepcionista sabe que não deve marcar nada naquele horário; Folga ou dia todo devem pedir com pelo menos 7 dias de antecedência. Folga nos dias de maior fluxo só podem ser aprovados diretamente pela dona. Médico, ou banco e etc. Devem ser solicitados com pelo menos 48 horas de antecedência, Qualquer solicitação abaixo dos prazos até é efetuada mas exibe um alerta para o usuário e a coordenadora ou a dona decidem liberar ou não. Se já houver cliente marcada no horário solicitado o sistema não bloqueia por cima, mostra para a coordenadora ou a dona quais clientes serão afetadas para remarcar com outra profissional ou outro horário (mostra profissionais e horarios disponíveis). E a cliente tem que ser avisada então cria tarefa para a recepcionista. A coordenadora e a dona podem bloquear o horário de qualquer uma na hora então as emergências são tratadas por fora do sistema, a profissional liga para a coordenadora diretamente (whatsapp ou ligação normal). A coordenadora/dona também podem configurar intervalos fixos, horários de almoço e o dia de folga padrão de cada profissional. No fim do mês o sistema calcula bloqueios e faltas de cada profissional
 
