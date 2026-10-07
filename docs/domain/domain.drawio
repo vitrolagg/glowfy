@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="pg-lg" name="Legenda">
-        <mxGraphModel dx="2027" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1482" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -79,7 +79,7 @@
                 <mxCell id="pg-lg-m-abas" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Abas e atividades" vertex="1">
                     <mxGeometry height="420" width="560" x="40" y="520" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-lg-abas-txt" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=11;" value="&lt;b&gt;Macro&lt;/b&gt;: containers&lt;br&gt;&lt;b&gt;Casos de uso&lt;/b&gt;: por ator&lt;br&gt;&lt;b&gt;Fluxo de usuários&lt;/b&gt;: telas por perfil&lt;br&gt;&lt;b&gt;Layout web&lt;/b&gt;: esqueleto desktop e celular&lt;br&gt;&lt;b&gt;Autenticação&lt;/b&gt;: Atividades 1–3&lt;br&gt;&lt;b&gt;Cadastros&lt;/b&gt;: Atividades 4–10 (inclui 6a)&lt;br&gt;&lt;b&gt;Agenda&lt;/b&gt;: Atividades 11–14&lt;br&gt;&lt;b&gt;Bloqueios&lt;/b&gt;: Atividades 15–17&lt;br&gt;&lt;b&gt;Atendimento&lt;/b&gt;: Atividades 18–23&lt;br&gt;&lt;b&gt;Caixa&lt;/b&gt;: Atividades 24–27&lt;br&gt;&lt;b&gt;Comissões&lt;/b&gt;: Atividades 28–30&lt;br&gt;&lt;b&gt;Financeiro&lt;/b&gt;: Atividades 31–32&lt;br&gt;&lt;b&gt;Tarefas&lt;/b&gt;: Atividades 33–35&lt;br&gt;&lt;b&gt;Relatórios&lt;/b&gt;: Atividades 36–37&lt;br&gt;&lt;b&gt;Auditoria&lt;/b&gt;: Registro de alterações e Atividade 38&lt;br&gt;&lt;b&gt;Scheduler&lt;/b&gt;: Jobs agendados e envio de push&lt;br&gt;&lt;b&gt;Pendências e mudanças&lt;/b&gt;: 22 itens em aberto" vertex="1">
+                <mxCell id="pg-lg-abas-txt" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=11;" value="&lt;b&gt;Macro&lt;/b&gt;: containers&lt;br&gt;&lt;b&gt;Casos de uso&lt;/b&gt;: por ator&lt;br&gt;&lt;b&gt;Fluxo de usuários&lt;/b&gt;: telas por perfil&lt;br&gt;&lt;b&gt;Layout web&lt;/b&gt;: esqueleto desktop e celular&lt;br&gt;&lt;b&gt;Autenticação&lt;/b&gt;: Atividades 1–3&lt;br&gt;&lt;b&gt;Cadastros&lt;/b&gt;: Atividades 4–10 (inclui 6a e 10a)&lt;br&gt;&lt;b&gt;Agenda&lt;/b&gt;: Atividades 11–14&lt;br&gt;&lt;b&gt;Bloqueios&lt;/b&gt;: Atividades 15–17&lt;br&gt;&lt;b&gt;Atendimento&lt;/b&gt;: Atividades 18–23&lt;br&gt;&lt;b&gt;Caixa&lt;/b&gt;: Atividades 24–27&lt;br&gt;&lt;b&gt;Comissões&lt;/b&gt;: Atividades 28–30 (inclui 29a)&lt;br&gt;&lt;b&gt;Financeiro&lt;/b&gt;: Atividades 31–32&lt;br&gt;&lt;b&gt;Tarefas&lt;/b&gt;: Atividades 33–35&lt;br&gt;&lt;b&gt;Relatórios&lt;/b&gt;: Atividades 36–37&lt;br&gt;&lt;b&gt;Auditoria&lt;/b&gt;: Registro de alterações e Atividade 38&lt;br&gt;&lt;b&gt;Scheduler&lt;/b&gt;: Jobs agendados e envio de push&lt;br&gt;&lt;b&gt;Pendências e mudanças&lt;/b&gt;: 22 itens, todos com decisão" vertex="1">
                     <mxGeometry height="370" width="520" x="60" y="560" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-lg-m-req" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Requisitos" vertex="1">
@@ -91,7 +91,7 @@
                 <mxCell id="pg-lg-m-seed" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Dados iniciais (seed) dos domínios fixos" vertex="1">
                     <mxGeometry height="360" width="560" x="640" y="680" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-lg-seed-txt" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=11;" value="&lt;b&gt;role&lt;/b&gt;: owner (Dona), coordinator (Coordenadora), receptionist (Recepcionista), professional (Profissional), assistant (Auxiliar)&lt;br&gt;&lt;b&gt;employment_type&lt;/b&gt;: partner_mei, clt&lt;br&gt;&lt;b&gt;payment_method&lt;/b&gt;: Dinheiro, Pix, Débito, Crédito à vista, Crédito parcelado (taxas definidas pela dona)&lt;br&gt;&lt;b&gt;expense_category&lt;/b&gt;: Aluguel, Luz, Água, Produtos, Salários, Impostos, Manutenção, Marketing&lt;br&gt;&lt;b&gt;service_category&lt;/b&gt;: Cabelo, Unhas, Estética, Sobrancelha/cílios&lt;br&gt;&lt;b&gt;hair_size&lt;/b&gt;: Curto, Médio, Longo, Extra longo/muito volume&lt;br&gt;&lt;b&gt;resource&lt;/b&gt;: Sala de estética (1), Lavatório (2)&lt;br&gt;&lt;b&gt;client_source&lt;/b&gt;: Instagram, Indicação, Passagem, Outro&lt;br&gt;&lt;b&gt;appointment_status&lt;/b&gt;: scheduled, confirmed, in_service, done, canceled, no_show&lt;br&gt;&lt;b&gt;confirmation_status&lt;/b&gt;: pending, confirmed, reschedule_requested, no_answer&lt;br&gt;&lt;b&gt;time_block_status&lt;/b&gt;: pending, approved, rejected&lt;br&gt;&lt;b&gt;block_reason&lt;/b&gt;: Médico, Folga, Curso, Pessoal, Outro&lt;br&gt;&lt;b&gt;adjustment_type&lt;/b&gt;: surcharge, commercial_discount, courtesy&lt;br&gt;&lt;b&gt;cash_movement_type&lt;/b&gt;: opening, payment, refund, withdrawal, petty_expense, advance&lt;br&gt;&lt;b&gt;bill_type&lt;/b&gt;: payable, receivable" vertex="1">
+                <mxCell id="pg-lg-seed-txt" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=11;" value="&lt;b&gt;role&lt;/b&gt;: owner (Dona), coordinator (Coordenadora), receptionist (Recepcionista), professional (Profissional), assistant (Auxiliar)&lt;br&gt;&lt;b&gt;employment_type&lt;/b&gt;: partner_mei, clt&lt;br&gt;&lt;b&gt;payment_method&lt;/b&gt;: Dinheiro, Pix, Débito, Crédito à vista, Crédito parcelado (taxas definidas pela dona)&lt;br&gt;&lt;b&gt;expense_category&lt;/b&gt;: Aluguel, Luz, Água, Produtos, Salários, Impostos, Manutenção, Marketing&lt;br&gt;&lt;b&gt;service_category&lt;/b&gt;: Cabelo, Unhas, Estética, Sobrancelha/cílios&lt;br&gt;&lt;b&gt;hair_size&lt;/b&gt;: Curto, Médio, Longo, Extra longo/muito volume&lt;br&gt;&lt;b&gt;resource&lt;/b&gt;: Sala de estética (1), Lavatório (2)&lt;br&gt;&lt;b&gt;client_source&lt;/b&gt;: Instagram, Indicação, Passagem, Outro&lt;br&gt;&lt;b&gt;appointment_status&lt;/b&gt;: scheduled, confirmed, in_service, done, canceled, no_show&lt;br&gt;&lt;b&gt;confirmation_status&lt;/b&gt;: pending, confirmed, reschedule_requested, no_answer&lt;br&gt;&lt;b&gt;time_block_status&lt;/b&gt;: pending, approved, rejected&lt;br&gt;&lt;b&gt;block_reason&lt;/b&gt;: Médico, Folga, Curso, Pessoal, Outro&lt;br&gt;&lt;b&gt;adjustment_type&lt;/b&gt;: surcharge, commercial_discount, courtesy&lt;br&gt;&lt;b&gt;cash_movement_type&lt;/b&gt;: opening, payment, refund, withdrawal, petty_expense, advance&lt;br&gt;&lt;b&gt;bill_type&lt;/b&gt;: payable, receivable&lt;br&gt;&lt;b&gt;tip_fee_policy&lt;/b&gt;: deduct, absorb (taxa sobre gorjeta)&lt;br&gt;&lt;b&gt;prep_time&lt;/b&gt;: 10 min após serviços de cabelo (configurável)" vertex="1">
                     <mxGeometry height="320" width="520" x="660" y="715" as="geometry"/>
                 </mxCell>
             </root>
@@ -138,7 +138,7 @@
                 <mxCell id="pg-ma-ext-push" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#999999;fontSize=11;dashed=1;" value="&lt;b&gt;Serviço de push&lt;/b&gt;&lt;br&gt;[Web Push: FCM / APNs]" vertex="1">
                     <mxGeometry height="70" width="260" x="920" y="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ma-ext-email" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#999999;fontSize=11;dashed=1;" value="&lt;b&gt;Serviço de e-mail&lt;/b&gt;&lt;br&gt;[SMTP]&lt;br&gt;Convite e redefinição de senha" vertex="1">
+                <mxCell id="pg-ma-ext-email" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#999999;fontSize=11;dashed=1;" value="&lt;b&gt;Serviço de e-mail&lt;/b&gt;&lt;br&gt;[SMTP]&lt;br&gt;Convite, redefinição de senha e avisos da dona (plano B do push)" vertex="1">
                     <mxGeometry height="80" width="260" x="920" y="330" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ma-ext-bkp" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#999999;fontSize=11;dashed=1;" value="&lt;b&gt;Armazenamento em nuvem&lt;/b&gt;&lt;br&gt;Backup diário" vertex="1">
@@ -186,8 +186,8 @@
                 <mxCell id="pg-ma-28" edge="1" parent="1" source="pg-ma-api" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-ma-ext-bkp" value="backup diário">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ma-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Jobs agendados (tarefas recorrentes, avisos de vencimento, lista de confirmação, fechamento quinzenal e backup) rodam no próprio processo da api com APScheduler. Separar em um container scheduler: Pendência 21." vertex="1">
-                    <mxGeometry height="60" width="620" x="220" y="700" as="geometry"/>
+                <mxCell id="pg-ma-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Jobs agendados (tarefas recorrentes, avisos de vencimento, lista de confirmação, fechamento quinzenal e backup) rodam no próprio processo da api com APScheduler. Um único processo, com trava contra execução dupla; reavaliar um container scheduler na segunda unidade." vertex="1">
+                    <mxGeometry height="60.0" width="620" x="220" y="700" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -466,6 +466,15 @@
                 </mxCell>
                 <mxCell id="pg-uc-uc-sis-1-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" value="Fazer backup diário (RNF08)" vertex="1">
                     <mxGeometry height="70" width="320" x="930" y="3180" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-uc-uc-coord-n1" value="Importar clientes por CSV" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="580.0" y="1290.0" width="320" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-uc-uc-coord-n2" value="Pedir cortesia à dona (RF35)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="930.0" y="1500.0" width="320" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-uc-uc-prof-n1" value="Informar a NFS-e mensal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="930.0" y="2550.0" width="320" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -767,6 +776,24 @@
                 <mxCell id="pg-fu-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="A dona vê todas as telas da coordenadora, e a coordenadora todas as da recepcionista, além das próprias. As telas da profissional e da auxiliar são pensadas primeiro para o celular (RNF01)." vertex="1">
                     <mxGeometry height="100" width="300" x="1300" y="390" as="geometry"/>
                 </mxCell>
+                <mxCell id="pg-fu-tela-coord-n1" value="Importar clientes (CSV)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1086.0" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-fu-tela-coord-n1-seta" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pg-fu-menu-coord" target="pg-fu-tela-coord-n1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-fu-tela-prof-n1" value="NFS-e do mês" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="750.0" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-fu-tela-prof-n1-seta" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pg-fu-menu-prof" target="pg-fu-tela-prof-n1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-fu-tela-dona-n1" value="Notas das parceiras" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1254.0" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-fu-tela-dona-n1-seta" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pg-fu-menu-dona" target="pg-fu-tela-dona-n1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
@@ -833,7 +860,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-au" name="Autenticação">
-        <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2991" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -957,7 +984,7 @@
                 <mxCell id="pg-au-a2-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="E-mail cadastrado e ativo?" vertex="1">
                     <mxGeometry height="90" width="190" x="1190" y="419" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-au-a2-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Gera password_reset_token de uso único com validade" vertex="1">
+                <mxCell id="pg-au-a2-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Gera password_reset_token de uso único, válido por 1 hora" vertex="1">
                     <mxGeometry height="66" width="195" x="1471" y="459" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-au-a2-d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Token válido e não usado?" vertex="1">
@@ -1016,7 +1043,7 @@
                 <mxCell id="pg-au-57" edge="1" parent="1" source="pg-au-a2-a3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-au-a2-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-au-a2-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="A validade do link não veio da entrevista; proposta: 1 hora (Pendência 19)." vertex="1">
+                <mxCell id="pg-au-a2-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Link de uso único, válido por 1 hora; ao trocar a senha, encerra as outras sessões." vertex="1">
                     <mxGeometry height="30" width="880" x="1020" y="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-au-a3-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 3 — Cadastrar usuário e perfil (RF03, RN02, RN19)" vertex="1">
@@ -1100,11 +1127,11 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-cd" name="Cadastros">
-        <mxGraphModel dx="1122" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="5433" dy="3960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="pg-cd-titulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" value="Cadastros — Atividades 4–10 (inclui 6a)" vertex="1">
+                <mxCell id="pg-cd-titulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" value="Cadastros — Atividades 4–10 (inclui 6a e 10a)" vertex="1">
                     <mxGeometry height="30" width="1880" x="40" y="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a4-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 4 — Cadastrar cliente (RF04, RF05, RF06, RN01, RN17, RN18, RNF11)" vertex="1">
@@ -1194,7 +1221,7 @@
                 <mxCell id="pg-cd-30" edge="1" parent="1" source="pg-cd-a4-a6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cd-a4-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a4-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="O celular é único só entre titulares; a dependente usa o contato da titular e tem ficha própria (RN17, RN18).&lt;br&gt;Na busca, o nome sempre aparece junto do celular e do nascimento, por causa das homônimas (RF06).&lt;br&gt;O aceite de mensagens fica gravado com data (client.whatsapp_consent_at) (RNF11). Importar os ~1.500 contatos: Pendência 14." vertex="1">
+                <mxCell id="pg-cd-a4-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="O celular é único só entre titulares; a dependente usa o contato da titular e tem ficha própria (RN17, RN18).&lt;br&gt;Na busca, o nome sempre aparece junto do celular e do nascimento, por causa das homônimas (RF06).&lt;br&gt;O aceite de mensagens fica gravado com data (client.whatsapp_consent_at) (RNF11). Importação inicial dos contatos: Atividade 10a." vertex="1">
                     <mxGeometry height="58" width="880" x="60" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a5-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 5 — Registrar na ficha técnica (RF07, RF36, RN01, RN11)" vertex="1">
@@ -1283,7 +1310,7 @@
                     <mxGeometry height="44" width="880" x="1020" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a7-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 7 — Cadastrar serviço e variações (RF10, RF11, RN02, RN20)" vertex="1">
-                    <mxGeometry height="614" width="920" x="40" y="748" as="geometry"/>
+                    <mxGeometry height="628" width="920" x="40" y="748" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a7-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="50" y="788" as="geometry"/>
@@ -1303,7 +1330,7 @@
                 <mxCell id="3Q1DB4mNSdBgRPPAJqlZ-1" edge="1" parent="1" source="pg-cd-a7-a1" style="edgeStyle=none;html=1;" target="pg-cd-a7-d1" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a7-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Preenche nome, categoria, preço, duração e comissão padrão" vertex="1">
+                <mxCell id="pg-cd-a7-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Preenche nome, categoria, preço, duração, tempo de preparo e comissão padrão" vertex="1">
                     <mxGeometry height="66" width="195" x="249" y="830" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a7-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Usa a tabela de tamanhos?" vertex="1">
@@ -1312,7 +1339,7 @@
                 <mxCell id="pg-cd-a7-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Define preço e duração por tamanho (service_variation)" vertex="1">
                     <mxGeometry height="66" width="195" x="731" y="830" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a7-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Informa o custo de produto a descontar da comissão" vertex="1">
+                <mxCell id="pg-cd-a7-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Informa o custo fixo de produto (tabela anexa ao contrato, com data de vigência)" vertex="1">
                     <mxGeometry height="66" width="195" x="65" y="940" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a7-d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Serviço químico?" vertex="1">
@@ -1372,56 +1399,56 @@
                 <mxCell id="pg-cd-115" edge="1" parent="1" source="pg-cd-a7-a5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a7-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a7-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Preço, variações e custo só a dona altera (RN02).&lt;br&gt;Custo de produto fixo por serviço ou informado na comanda: Pendência 8. Durações reais: Pendência 7." vertex="1">
-                    <mxGeometry height="44" width="880" x="60" y="1298" as="geometry"/>
+                <mxCell id="pg-cd-a7-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Preço, variações e custo só a dona altera (RN02).&lt;br&gt;Custo de produto fixo por serviço, da tabela anexa ao contrato. Durações iniciais definidas pela coordenadora; o tempo de preparo (ex: 10 min após cabelo) ocupa a agenda." vertex="1">
+                    <mxGeometry height="58" width="880" x="60" y="1298" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 8 — Cadastrar produto, fornecedor e pacote (RF13, RF14, RF15, RN02, RN20)" vertex="1">
-                    <mxGeometry height="534" width="920" x="40" y="1402" as="geometry"/>
+                    <mxGeometry height="534" width="920" x="40" y="1416" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="1442" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="1456" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#9673a6;" value="Raia: Coordenadora" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="1448" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="1462" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="1582" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="1596" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#6c8ebf;" value="Raia: Dona" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="1588" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="1602" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia2-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="1722" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="1736" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-raia2-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="1728" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="1742" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
-                    <mxGeometry height="30" width="30" x="147" y="1502" as="geometry"/>
+                    <mxGeometry height="30" width="30" x="147" y="1516" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="O que cadastrar?" vertex="1">
-                    <mxGeometry height="90" width="190" x="289" y="1472" as="geometry"/>
+                    <mxGeometry height="90" width="190" x="289" y="1486" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Produto de revenda: nome, código de barras, custo, preço e quantidade" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="1484" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="509" y="1498" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Fornecedor: nome, CNPJ, contato e o que fornece" vertex="1">
-                    <mxGeometry height="66" width="195" x="731" y="1484" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="731" y="1498" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Pacote: serviço, nº de sessões, preço e validade em dias" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="1624" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="287" y="1638" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Código de barras / CNPJ ainda não existe?" vertex="1">
-                    <mxGeometry height="90" width="190" x="511" y="1752" as="geometry"/>
+                    <mxGeometry height="90" width="190" x="511" y="1766" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-err" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Mostra o registro existente" vertex="1">
-                    <mxGeometry height="66" width="195" x="739" y="1786" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="739" y="1800" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Grava product, supplier ou package" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="1764" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="287" y="1778" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
-                    <mxGeometry height="40" width="130" x="97" y="1777" as="geometry"/>
+                    <mxGeometry height="40" width="130" x="97" y="1791" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-133" edge="1" parent="1" source="pg-cd-a8-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a8-d1" value="">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1454,7 +1481,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a8-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Pacote é preço: só a dona cria (RN02). A venda do pacote entra como item da comanda (Atividade 22) e o uso das sessões na Atividade 18.&lt;br&gt;Produto de uso interno (tinta, oxidante) e baixa por grama ficam para a V2." vertex="1">
-                    <mxGeometry height="44" width="880" x="60" y="1872" as="geometry"/>
+                    <mxGeometry height="44" width="880" x="60" y="1886" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a9-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 9 — Configurar o salão (RF16, RF17, RF18, RF19, RN33, RN34)" vertex="1">
                     <mxGeometry height="532" width="920" x="1000" y="1542" as="geometry"/>
@@ -1508,49 +1535,49 @@
                     <mxGeometry height="72" width="880" x="1020" y="1982" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 10 — Desativar cliente ou profissional (RN15, RNF07)" vertex="1">
-                    <mxGeometry height="644" width="920" x="40" y="1976" as="geometry"/>
+                    <mxGeometry height="644" width="920" x="40" y="1990" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="2016" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="2030" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#82b366;" value="Raia: Recepção (recepcionista, coordenadora ou dona)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="2022" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="2036" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="2156" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="2170" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#6c8ebf;" value="Raia: Dona" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="2162" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="2176" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia2-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="2296" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="2310" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-raia2-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="2302" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="2316" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
-                    <mxGeometry height="30" width="30" x="147" y="2076" as="geometry"/>
+                    <mxGeometry height="30" width="30" x="147" y="2090" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Quem será desativado?" vertex="1">
-                    <mxGeometry height="90" width="190" x="289" y="2046" as="geometry"/>
+                    <mxGeometry height="90" width="190" x="289" y="2060" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Cliente: informa o motivo" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="2058" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="509" y="2072" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Profissional: só a dona confirma e informa o motivo" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="2198" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="509" y="2212" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Tem agendamentos futuros?" vertex="1">
-                    <mxGeometry height="90" width="190" x="511" y="2326" as="geometry"/>
+                    <mxGeometry height="90" width="190" x="511" y="2340" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Lista os horários para remarcar ou cancelar (Atividade 12) antes de concluir" vertex="1">
-                    <mxGeometry height="66" width="195" x="745" y="2343" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="745" y="2357" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Marca active = false; histórico, comandas e comissões continuam" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="2448" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="509" y="2462" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
-                    <mxGeometry height="40" width="130" x="319" y="2461" as="geometry"/>
+                    <mxGeometry height="40" width="130" x="319" y="2475" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-176" edge="1" parent="1" source="pg-cd-a10-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a10-d1" value="">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1580,7 +1607,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a10-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Nada é apagado: cliente e profissional só são desativados (RN15, RNF07).&lt;br&gt;A checagem de agendamentos futuros é proposta deste diagrama (não veio da entrevista)." vertex="1">
-                    <mxGeometry height="44" width="880" x="60" y="2556" as="geometry"/>
+                    <mxGeometry height="44" width="880" x="60" y="2570" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a6-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 6 — Cadastrar profissional, serviços e escala (RF08, RF09, RF12, RN24, RN27, RN28)" vertex="1">
                     <mxGeometry height="642" width="920" x="1000" y="734" as="geometry"/>
@@ -1606,7 +1633,7 @@
                 <mxCell id="pg-cd-a6-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="É parceira?" vertex="1">
                     <mxGeometry height="90" width="190" x="1471" y="804" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a6-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Marca os serviços que ela faz e, se preciso, o % próprio (staff_service)" vertex="1">
+                <mxCell id="pg-cd-a6-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Marca os serviços que ela faz e, se preciso, o % próprio (staff_service), com data de vigência" vertex="1">
                     <mxGeometry height="66" width="195" x="1691" y="816" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a6-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Marca os serviços que ela faz, sem comissão" vertex="1">
@@ -1627,7 +1654,7 @@
                 <mxCell id="pg-cd-a6-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
                     <mxGeometry height="40" width="130" x="1723" y="1189" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cd-a6-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="O cadastro é todo da dona e vai direto para o sistema, sem aprovação de ninguém (RN02).&lt;br&gt;Depois do cadastro, a coordenadora ou a dona podem mudar a escala na Atividade 6a; % de comissão só a dona (RN03).&lt;br&gt;O % de staff_service prevalece sobre o padrão do serviço (RN24). Auxiliares e CLT não recebem comissão (RN27). Conferir os % com os contratos: Pendência 10." vertex="1">
+                <mxCell id="pg-cd-a6-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="O cadastro é todo da dona e vai direto para o sistema, sem aprovação de ninguém (RN02).&lt;br&gt;Depois do cadastro, a coordenadora ou a dona podem mudar a escala na Atividade 6a; % de comissão só a dona (RN03).&lt;br&gt;O % de staff_service prevalece sobre o padrão do serviço (RN24). Auxiliares e CLT não recebem comissão (RN27). Percentuais do aditivo, com data de vigência." vertex="1">
                     <mxGeometry height="72" width="880" x="1020" y="1284" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cd-a6-seta-1" edge="1" parent="1" source="pg-cd-a6-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a6-a1" value="">
@@ -1714,11 +1741,74 @@
                 <mxCell id="pg-cd-a6a-seta-6" edge="1" parent="1" source="pg-cd-a6a-a3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a6a-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
+                <mxCell id="pg-cd-a10a-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 10a — Importar clientes por CSV" vertex="1">
+                    <mxGeometry height="614" width="920" x="1000" y="2658" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="900" x="1010" y="2698" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#9673a6;" value="Raia: Coordenadora ou dona" vertex="1">
+                    <mxGeometry height="20" width="500" x="1014" y="2704" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="900" x="1010" y="2948" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
+                    <mxGeometry height="20" width="500" x="1014" y="2954" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="1107" y="2758" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Exporta os contatos do WhatsApp Business/celular em CSV e envia o arquivo" vertex="1">
+                    <mxGeometry height="66" width="195" x="1247" y="2740" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Revisa a lista de recusados e corrige à mão, se quiser" vertex="1">
+                    <mxGeometry height="66" width="195" x="1691" y="2850" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="O arquivo está no formato esperado (nome, celular)?" vertex="1">
+                    <mxGeometry height="90" width="190" x="1249" y="2978" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Valida cada linha: celular válido e ainda não cadastrado (RN17)" vertex="1">
+                    <mxGeometry height="66" width="195" x="1469" y="2990" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Cria os client novos e mostra importados e recusados, com o motivo" vertex="1">
+                    <mxGeometry height="66" width="195" x="1691" y="2990" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-err" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim (erro): mostra o modelo do CSV" vertex="1">
+                    <mxGeometry height="40" width="130" x="1279" y="3113" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
+                    <mxGeometry height="40" width="130" x="1723" y="3113" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-1" edge="1" parent="1" source="pg-cd-a10a-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a10a-a1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-2" edge="1" parent="1" source="pg-cd-a10a-a1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cd-a10a-d1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-3" edge="1" parent="1" source="pg-cd-a10a-d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a10a-a2" value="Sim">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-4" edge="1" parent="1" source="pg-cd-a10a-d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cd-a10a-err" value="Não">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-5" edge="1" parent="1" source="pg-cd-a10a-a2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a10a-a3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-6" edge="1" parent="1" source="pg-cd-a10a-a3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-cd-a10a-a4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-seta-7" edge="1" parent="1" source="pg-cd-a10a-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cd-a10a-e" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cd-a10a-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="As fichas de coloração não são importadas: a coordenadora digita as das clientes ativas (atendidas nos últimos 12 meses) quando elas voltam (Atividade 5)." vertex="1">
+                    <mxGeometry height="44" width="880" x="1020" y="3208" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="pg-ag" name="Agenda">
-        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="3365" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1749,7 +1839,7 @@
                 <mxCell id="pg-ag-a11-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
                     <mxGeometry height="30" width="30" x="147" y="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ag-a11-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Busca a cliente (Atividade 4) e vê alergias e preferências" vertex="1">
+                <mxCell id="pg-ag-a11-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Busca a cliente (Atividade 4) e vê alergias, preferências e alerta de faltas" vertex="1">
                     <mxGeometry height="66" width="195" x="287" y="162" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ag-a11-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Escolhe o serviço e a variação de tamanho" vertex="1">
@@ -1770,7 +1860,7 @@
                 <mxCell id="pg-ag-a11-d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Conflito de profissional ou de recurso?" vertex="1">
                     <mxGeometry height="90" width="190" x="511" y="400" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ag-a11-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Lista horários livres de quem faz o serviço: escala, bloqueios (inclusive pendentes) e recursos" vertex="1">
+                <mxCell id="pg-ag-a11-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Lista horários livres de quem faz o serviço: escala, bloqueios (inclusive pendentes), recursos e tempo de preparo" vertex="1">
                     <mxGeometry height="66" width="195" x="731" y="412" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ag-a11-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
@@ -1872,10 +1962,10 @@
                 <mxCell id="pg-ag-a12-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Atualiza o appointment e guarda o horário anterior em audit_log" vertex="1">
                     <mxGeometry height="66" width="195" x="1691" y="412" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ag-a12-a6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Status canceled com quem, quando e motivo; libera profissional e recurso" vertex="1">
+                <mxCell id="pg-ag-a12-a6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Status canceled com quem, quando e motivo; libera profissional e recurso; com menos de 2 h conta como falta" vertex="1">
                     <mxGeometry height="66" width="195" x="1469" y="522" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ag-a12-a7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Status no_show; entra na taxa de faltas da cliente e do mês (RF58)" vertex="1">
+                <mxCell id="pg-ag-a12-a7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Status no_show; conta na janela de 6 meses: 2 faltas sinaliza a cliente, 3 exige sinal de 30% (RF58)" vertex="1">
                     <mxGeometry height="66" width="195" x="1247" y="522" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ag-a12-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
@@ -1925,7 +2015,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="pg-ag-a12-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Cancelar: recepcionista, coordenadora ou dona, sempre com registro de quem e quando (RN16).&lt;br&gt;A regra para clientes que faltam muito ainda não foi definida (Pendência 13)." vertex="1">
+                <mxCell id="pg-ag-a12-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Cancelar: recepcionista, coordenadora ou dona, sempre com registro de quem e quando (RN16).&lt;br&gt;Falta = não vir ou cancelar com menos de 2 h, em janela de 6 meses; só a dona tira a sinalização; números configuráveis." vertex="1">
                     <mxGeometry height="44" width="880" x="1020" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ag-a13-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 13 — Confirmar os agendamentos do dia seguinte (RF29, RN33)" vertex="1">
@@ -2036,7 +2126,7 @@
                 <mxCell id="pg-ag-a14-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
                     <mxGeometry height="30" width="30" x="147" y="1002" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-ag-a14-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="A cliente/serviço exige sinal?" vertex="1">
+                <mxCell id="pg-ag-a14-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="A cliente/serviço exige sinal? (inclui cliente com 3+ faltas)" vertex="1">
                     <mxGeometry height="90" width="190" x="289" y="972" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-ag-a14-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Informa o valor (ex: 30% da progressiva) e a chave Pix" vertex="1">
@@ -2082,7 +2172,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-bl" name="Bloqueios">
-        <mxGraphModel dx="2692" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2991" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2116,7 +2206,7 @@
                 <mxCell id="pg-bl-a15-ef" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
                     <mxGeometry height="40" width="130" x="541" y="285" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-bl-a15-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Dentro do prazo? (7 dias para folga/dia inteiro, 48h para algumas horas)" vertex="1">
+                <mxCell id="pg-bl-a15-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Dentro do prazo? (configurável: 7 dias folga, 48h horas, 15 dias em dia de maior fluxo)" vertex="1">
                     <mxGeometry height="90" width="190" x="511" y="400" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-bl-a15-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Mostra alerta de pedido fora do prazo" vertex="1">
@@ -2169,7 +2259,7 @@
                 <mxCell id="pg-bl-26" edge="1" parent="1" source="pg-bl-a15-a5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-bl-a15-a6" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-bl-a15-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Emergência não passa por aqui: a profissional liga e a coordenadora bloqueia na hora (Atividade 17).&lt;br&gt;Os prazos de 7 dias e 48h ainda serão confirmados com a coordenadora (Pendência 5)." vertex="1">
+                <mxCell id="pg-bl-a15-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Emergência não passa por aqui: a profissional liga e a coordenadora bloqueia na hora (Atividade 17).&lt;br&gt;Prazos configuráveis pela dona, valendo dali em diante." vertex="1">
                     <mxGeometry height="44" width="880" x="60" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-bl-a16-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 16 — Aprovar ou recusar bloqueio (RF25, RF27, RN31, RN32)" vertex="1">
@@ -2271,7 +2361,7 @@
                 <mxCell id="pg-bl-58" edge="1" parent="1" source="pg-bl-a16-a7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-bl-a16-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-bl-a16-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Folga em dia de maior fluxo só a dona aprova (RN31). Quais são esses dias: Pendência 12.&lt;br&gt;Não se aprova bloqueio por cima de clientes marcadas sem remarcá-las (RN32)." vertex="1">
+                <mxCell id="pg-bl-a16-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Folga em dia de maior fluxo só a dona aprova (RN31). Dias de maior fluxo configuráveis: hoje sexta e sábado, mais datas especiais.&lt;br&gt;Não se aprova bloqueio por cima de clientes marcadas sem remarcá-las (RN32)." vertex="1">
                     <mxGeometry height="44" width="880" x="1020" y="770" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-bl-a17-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 17 — Bloquear horário diretamente (RF26)" vertex="1">
@@ -2350,7 +2440,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-at" name="Atendimento">
-        <mxGraphModel dx="1346" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2597,11 +2687,11 @@
                 <mxCell id="pg-at-81" edge="1" parent="1" source="pg-at-a20-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-at-a20-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a20-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Coordenadora: até 20% sobre o preço da variação; acima disso só a dona (RN08).&lt;br&gt;O limite da recepcionista não foi definido (Pendência 11)." vertex="1">
+                <mxCell id="pg-at-a20-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Coordenadora: até 20% sobre o preço da variação; acima disso só a dona (RN08).&lt;br&gt;Recepcionista: até 10%. Limites por perfil e por unidade, configuráveis só pela dona." vertex="1">
                     <mxGeometry height="44" width="880" x="1020" y="1360" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a21-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 21 — Lançar desconto ou cortesia (RF35, RN06, RN07)" vertex="1">
-                    <mxGeometry height="754" width="920" x="40" y="764" as="geometry"/>
+                    <mxGeometry height="768.0" width="920" x="40" y="764" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a21-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="50" y="804" as="geometry"/>
@@ -2624,10 +2714,10 @@
                 <mxCell id="pg-at-a21-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
                     <mxGeometry height="30" width="30" x="147" y="864" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a21-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Informa o % ou o valor e o motivo do desconto" vertex="1">
+                <mxCell id="pg-at-a21-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Informa o % ou o valor, o motivo e o tipo (desconto ou pedido de cortesia)" vertex="1">
                     <mxGeometry height="66" width="195" x="287" y="846" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a21-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Passa do limite? (recepcionista 5%, coordenadora 15%)" vertex="1">
+                <mxCell id="pg-at-a21-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Passa do limite do perfil ou é cortesia? (configurável: recepcionista 5%, coordenadora 15%)" vertex="1">
                     <mxGeometry height="90" width="190" x="289" y="974" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a21-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Grava ticket_adjustment commercial_discount; comissão sobre o valor com desconto" vertex="1">
@@ -2672,7 +2762,7 @@
                 <mxCell id="pg-at-106" edge="1" parent="1" source="pg-at-a21-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-at-a21-d2" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-107" edge="1" parent="1" source="pg-at-a21-d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-at-a21-a2" value="Sim">
+                <mxCell id="pg-at-107" edge="1" parent="1" source="pg-at-a21-d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-at-a21-a2" value="Sim (desconto)">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-108" edge="1" parent="1" source="pg-at-a21-d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-at-a21-e" value="Não">
@@ -2690,11 +2780,11 @@
                 <mxCell id="pg-at-112" edge="1" parent="1" source="pg-at-a21-a6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-at-a21-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a21-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Todo desconto exige motivo e grava quem deu (RN06). Só a dona dá cortesia por enquanto (RN07, Pendência 9).&lt;br&gt;O aviso no celular da dona depende do teste de push no iPhone (Pendência 15)." vertex="1">
-                    <mxGeometry height="44" width="880" x="60" y="1454" as="geometry"/>
+                <mxCell id="pg-at-a21-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Todo desconto exige motivo e grava quem deu (RN06). Só a dona concede cortesia; a coordenadora pode pedir pelo mesmo fluxo de aprovação (RN07).&lt;br&gt;Aviso por push; se falhar no iPhone, também por e-mail." vertex="1">
+                    <mxGeometry height="58.0" width="880" x="60" y="1454" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a22-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 22 — Fechar a comanda e receber (RF37, RF38, RF39, RF40, RN34, RN35, RN37)" vertex="1">
-                    <mxGeometry height="642" width="920" x="1000" y="1464" as="geometry"/>
+                    <mxGeometry height="670.0" width="920" x="1000" y="1464" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a22-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="1010" y="1504" as="geometry"/>
@@ -2714,7 +2804,7 @@
                 <mxCell id="pg-at-a22-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Pede o fechamento da comanda" vertex="1">
                     <mxGeometry height="66" width="195" x="1247" y="1546" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a22-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Confere o total e escolhe as formas de pagamento (pode dividir: Pix + cartão)" vertex="1">
+                <mxCell id="pg-at-a22-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Confere o total e escolhe as formas de pagamento (pode dividir: Pix + cartão) e lança a gorjeta, se houver, dizendo para quem" vertex="1">
                     <mxGeometry height="66" width="195" x="1469" y="1546" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a22-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Registra o restante como client_debt com motivo (“ficou devendo”)" vertex="1">
@@ -2732,7 +2822,7 @@
                 <mxCell id="pg-at-a22-a7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Calcula as comissões (Atividade 28)" vertex="1">
                     <mxGeometry height="66" width="195" x="1247" y="1906" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a22-a6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Grava os payments no caixa aberto e fecha o ticket" vertex="1">
+                <mxCell id="pg-at-a22-a6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Grava os payments e as tips no caixa aberto e fecha o ticket" vertex="1">
                     <mxGeometry height="66" width="195" x="1469" y="1906" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-128" edge="1" parent="1" source="pg-at-a22-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-at-a22-a1" value="">
@@ -2762,44 +2852,44 @@
                 <mxCell id="pg-at-136" edge="1" parent="1" source="pg-at-a22-a7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-at-a22-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a22-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Não existe fiado: o valor pendente é exceção, com motivo, para cobrar depois (RN37).&lt;br&gt;Crédito parcelado só dentro da regra configurada, ex: até 3x sem juros acima de R$ 300 (RN34).&lt;br&gt;A venda de pacote entra como item e cria client_package com validade. É preciso haver caixa aberto (Atividade 24).&lt;br&gt;Gorjeta ainda em aberto (Pendência 1)." vertex="1">
-                    <mxGeometry height="72" width="880" x="1020" y="2014" as="geometry"/>
+                <mxCell id="pg-at-a22-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Não existe fiado: o valor pendente é exceção, com motivo, para cobrar depois (RN37).&lt;br&gt;Crédito parcelado só dentro da regra configurada, ex: até 3x sem juros acima de R$ 300 (RN34).&lt;br&gt;A venda de pacote entra como item e cria client_package com validade. É preciso haver caixa aberto (Atividade 24).&lt;br&gt;Gorjeta (tip): 100% de quem recebeu, não é receita do salão e fica fora da comissão; a taxa é descontada ou absorvida conforme a configuração da dona; gorjeta de CLT vai para a folha." vertex="1">
+                    <mxGeometry height="100.0" width="880" x="1020" y="2014" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 23 — Cancelar ou estornar pagamento (RF41, RN13)" vertex="1">
-                    <mxGeometry height="490" width="920" x="40" y="1558" as="geometry"/>
+                    <mxGeometry height="490" width="920" x="40" y="1572.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="1598" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="1612.0" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a23-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#82b366;" value="Raia: Quem pode estornar (Pendência 17)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="1604" as="geometry"/>
+                <mxCell id="pg-at-a23-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#9673a6;" value="Raia: Coordenadora (caixa aberto) ou dona" vertex="1">
+                    <mxGeometry height="20" width="500" x="54" y="1618.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="1738" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="1752.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="1744" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="1758.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
-                    <mxGeometry height="30" width="30" x="147" y="1658" as="geometry"/>
+                    <mxGeometry height="30" width="30" x="147" y="1672.0" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a23-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Localiza a comanda pelo número, escolhe o pagamento e informa a justificativa" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="1640" as="geometry"/>
+                <mxCell id="pg-at-a23-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Localiza a comanda pelo número, escolhe o pagamento e informa a justificativa" vertex="1">
+                    <mxGeometry height="66" width="195" x="287" y="1654.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="O caixa do pagamento ainda está aberto?" vertex="1">
-                    <mxGeometry height="90" width="190" x="289" y="1768" as="geometry"/>
+                    <mxGeometry height="90" width="190" x="289" y="1782.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Cria o estorno ligado ao pagamento original; o original não muda" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="1780" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="509" y="1794.0" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a23-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Recalcula a comissão do item (Atividade 28) e grava audit_log" vertex="1">
-                    <mxGeometry height="66" width="195" x="731" y="1780" as="geometry"/>
+                <mxCell id="pg-at-a23-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Recalcula a comissão do item (Atividade 28) , grava audit_log e avisa a dona (push)" vertex="1">
+                    <mxGeometry height="66" width="195" x="731" y="1794.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Pede liberação da dona (Atividade 27)" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="1890" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="287" y="1904.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-a23-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
-                    <mxGeometry height="40" width="130" x="763" y="1903" as="geometry"/>
+                    <mxGeometry height="40" width="130" x="763" y="1917.0" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-at-150" edge="1" parent="1" source="pg-at-a23-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-at-a23-a1" value="">
                     <mxGeometry relative="1" as="geometry"/>
@@ -2822,14 +2912,17 @@
                 <mxCell id="pg-at-156" edge="1" parent="1" source="pg-at-a23-a5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-at-a23-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-at-a23-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Nada de dinheiro é apagado, nem pela dona (RN13)." vertex="1">
-                    <mxGeometry height="30" width="880" x="60" y="1998" as="geometry"/>
+                <mxCell id="pg-at-a23-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Nada de dinheiro é apagado, nem pela dona (RN13). A recepcionista não estorna; caixa fechado, só a dona." vertex="1">
+                    <mxGeometry height="30" width="880" x="60" y="2012.0" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-at-a21-seta-cortesia" value="Sim (cortesia)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pg-at-a21-d2" target="pg-at-a21-a6">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="pg-cx" name="Caixa">
-        <mxGraphModel dx="1122" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="3365" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2893,7 +2986,7 @@
                 <mxCell id="pg-cx-a25-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="1010" y="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cx-a25-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#82b366;" value="Raia: Quem lança (Pendência 18)" vertex="1">
+                <mxCell id="pg-cx-a25-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#82b366;" value="Raia: Recepção (recepcionista, coordenadora ou dona)" vertex="1">
                     <mxGeometry height="20" width="500" x="1014" y="126" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cx-a25-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
@@ -2908,13 +3001,13 @@
                 <mxCell id="pg-cx-a25-d1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="Tipo de movimento?" vertex="1">
                     <mxGeometry height="90" width="190" x="1249" y="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cx-a25-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Sangria: valor e destino (cofre, motoboy)" vertex="1">
+                <mxCell id="pg-cx-a25-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Sangria: valor e destino (recepcionista só para o cofre)" vertex="1">
                     <mxGeometry height="66" width="195" x="1469" y="162" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cx-a25-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Pequena despesa: valor, categoria e descrição" vertex="1">
+                <mxCell id="pg-cx-a25-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Pequena despesa: valor, categoria e descrição (recepcionista até R$ 50)" vertex="1">
                     <mxGeometry height="66" width="195" x="1691" y="162" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cx-a25-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Vale: profissional e valor" vertex="1">
+                <mxCell id="pg-cx-a25-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="Vale: profissional e valor (só coordenadora ou dona)" vertex="1">
                     <mxGeometry height="66" width="195" x="1469" y="272" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cx-a25-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Grava cash_movement no caixa aberto, com quem lançou" vertex="1">
@@ -2953,7 +3046,7 @@
                 <mxCell id="pg-cx-40" edge="1" parent="1" source="pg-cx-a25-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cx-a25-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cx-a25-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Despesas são lançadas pela dona e pela coordenadora (RN04). Falta definir se a recepcionista lança sangria e vale (Pendência 18)." vertex="1">
+                <mxCell id="pg-cx-a25-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Despesas são lançadas pela dona e pela coordenadora (RN04). Valores configuráveis pela dona." vertex="1">
                     <mxGeometry height="30" width="880" x="1020" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cx-a26-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 26 — Fechar o caixa (RF44)" vertex="1">
@@ -3086,15 +3179,15 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-cm" name="Comissões">
-        <mxGraphModel dx="2447" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="3365" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="pg-cm-titulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" value="Comissões — Atividades 28–30" vertex="1">
+                <mxCell id="pg-cm-titulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" value="Comissões — Atividades 28–30 (inclui 29a)" vertex="1">
                     <mxGeometry height="30" width="1880" x="40" y="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a28-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 28 — Calcular comissão (RF46, RN07, RN24, RN25, RN26, RN27)" vertex="1">
-                    <mxGeometry height="584" width="920" x="40" y="80" as="geometry"/>
+                    <mxGeometry height="612" width="920" x="40" y="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a28-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="50" y="120" as="geometry"/>
@@ -3174,8 +3267,8 @@
                 <mxCell id="pg-cm-28" edge="1" parent="1" source="pg-cm-a28-a9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a28-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cm-a28-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Um estorno gera commission_entry negativo pelo mesmo cálculo. Os vales são abatidos no fechamento (Atividade 29).&lt;br&gt;As deduções de taxa e de custo dependem da validação da contadora (Pendência 3); custo fixo ou informado: Pendência 8." vertex="1">
-                    <mxGeometry height="44" width="880" x="60" y="600" as="geometry"/>
+                <mxCell id="pg-cm-a28-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Um estorno gera commission_entry negativo pelo mesmo cálculo. Os vales são abatidos no fechamento (Atividade 29).&lt;br&gt;Taxa e custo só são descontados porque estão previstos no contrato; taxa de antecipação só se o contrato prever. Regras com data de vigência, sem recalcular quinzenas fechadas.&lt;br&gt;Gorjetas não entram na base da comissão nem da cota-parte do salão." vertex="1">
+                    <mxGeometry height="72" width="880" x="60" y="600" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a29-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 29 — Fechamento quinzenal de comissões (RF47, RN23, RN25)" vertex="1">
                     <mxGeometry height="630" width="920" x="1000" y="80" as="geometry"/>
@@ -3201,7 +3294,7 @@
                 <mxCell id="pg-cm-a29-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
                     <mxGeometry height="30" width="30" x="1107" y="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cm-a29-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="No fim da quinzena (1–15 e 16–fim), gera commission_closing por profissional: comissões − vales" vertex="1">
+                <mxCell id="pg-cm-a29-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="No fim da quinzena (1–15 e 16–fim), gera commission_closing por profissional: comissões − vales; gorjetas em linha separada" vertex="1">
                     <mxGeometry height="66" width="195" x="1247" y="162" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a29-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="Confere o extrato de cada profissional" vertex="1">
@@ -3252,38 +3345,38 @@
                 <mxCell id="pg-cm-54" edge="1" parent="1" source="pg-cm-a29-a7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a29-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cm-a29-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Antes de cadastrar os %, conferir os contratos de parceria (Pendência 10)." vertex="1">
+                <mxCell id="pg-cm-a29-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Percentuais e regras com data de vigência do aditivo; quinzena fechada não é recalculada." vertex="1">
                     <mxGeometry height="30" width="880" x="1020" y="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 30 — Consultar extrato de comissão (RF48, RN10)" vertex="1">
-                    <mxGeometry height="380" width="920" x="40" y="704" as="geometry"/>
+                    <mxGeometry height="380" width="920" x="40" y="732" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="744" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="772" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#d79b00;" value="Raia: Profissional" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="750" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="778" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
-                    <mxGeometry height="10" width="900" x="50" y="884" as="geometry"/>
+                    <mxGeometry height="10" width="900" x="50" y="912" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
-                    <mxGeometry height="20" width="500" x="54" y="890" as="geometry"/>
+                    <mxGeometry height="20" width="500" x="54" y="918" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
-                    <mxGeometry height="30" width="30" x="147" y="804" as="geometry"/>
+                    <mxGeometry height="30" width="30" x="147" y="832" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" value="Abre “Minha comissão” no celular" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="786" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="287" y="814" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Filtra só os commission_entry da própria profissional" vertex="1">
-                    <mxGeometry height="66" width="195" x="287" y="926" as="geometry"/>
+                    <mxGeometry height="66" width="195" x="287" y="954" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-cm-a30-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Mostra a quinzena atual (atendimentos, bases, deduções e vales) e os fechamentos anteriores" vertex="1">
-                    <mxGeometry height="66" width="195" x="509" y="926" as="geometry"/>
+                <mxCell id="pg-cm-a30-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Mostra a quinzena atual linha a linha (valor cobrado, %, taxa e custo descontados, vales, gorjetas) e os fechamentos anteriores" vertex="1">
+                    <mxGeometry height="66" width="195" x="509" y="954" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
-                    <mxGeometry height="40" width="130" x="763" y="939" as="geometry"/>
+                    <mxGeometry height="40" width="130" x="763" y="967" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-66" edge="1" parent="1" source="pg-cm-a30-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a30-a1" value="">
                     <mxGeometry relative="1" as="geometry"/>
@@ -3298,7 +3391,70 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-cm-a30-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Só a dona vê a comissão de todas; cada profissional vê só a sua (RN10)." vertex="1">
-                    <mxGeometry height="30" width="880" x="60" y="1034" as="geometry"/>
+                    <mxGeometry height="30" width="880" x="60" y="1062" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 29a — Registrar a NFS-e mensal da parceira" vertex="1">
+                    <mxGeometry height="658" width="920" x="1000" y="750" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="900" x="1010" y="790" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia0-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#666666;" value="Raia: Sistema (api)" vertex="1">
+                    <mxGeometry height="20" width="500" x="1014" y="796" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia1-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="900" x="1010" y="1040" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia1-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#d79b00;" value="Raia: Profissional" vertex="1">
+                    <mxGeometry height="20" width="500" x="1014" y="1046" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia2-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="900" x="1010" y="1180" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-raia2-rotulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#9673a6;" value="Raia: Coordenadora ou dona" vertex="1">
+                    <mxGeometry height="20" width="500" x="1014" y="1186" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-s" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="1107" y="850" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="No fim do mês, gera o resumo por parceira: valor da nota = cota-parte do mês, sem gorjetas" vertex="1">
+                    <mxGeometry height="66" width="195" x="1247" y="832" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Marca a nota do mês como recebida" vertex="1">
+                    <mxGeometry height="66" width="195" x="1691" y="832" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
+                    <mxGeometry height="40" width="130" x="1723" y="955" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" value="Vê o valor no extrato e emite a NFS-e para o salão no Emissor Nacional (fora do sistema)" vertex="1">
+                    <mxGeometry height="66" width="195" x="1247" y="1082" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" value="Informa o número e a data da NFS-e" vertex="1">
+                    <mxGeometry height="66" width="195" x="1469" y="1082" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Acompanha a lista de notas pendentes / recebidas do mês" vertex="1">
+                    <mxGeometry height="66" width="195" x="1469" y="1222" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-1" edge="1" parent="1" source="pg-cm-a29a-s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a29a-a1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-2" edge="1" parent="1" source="pg-cm-a29a-a1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cm-a29a-a2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-3" edge="1" parent="1" source="pg-cm-a29a-a2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a29a-a3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-4" edge="1" parent="1" source="pg-cm-a29a-a3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a29a-a4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-5" edge="1" parent="1" source="pg-cm-a29a-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-cm-a29a-e" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-seta-6" edge="1" parent="1" source="pg-cm-a29a-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-cm-a29a-a5" value="pendentes">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pg-cm-a29a-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="A nota mensal de cada parceira comprova o repasse; a cota-parte dela não é receita do salão (Lei 13.352/2016).&lt;br&gt;O sistema não emite nota na V1. A nota das parceiras nunca é emitida pelo sistema; a do salão para a cliente pode vir no futuro, por API de um emissor." vertex="1">
+                    <mxGeometry height="58" width="880" x="1020" y="1330" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -3551,7 +3707,7 @@
                     <mxGeometry height="30" width="880" x="1020" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-tf-a35-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 35 — Criar modelo de tarefa recorrente (RF52)" vertex="1">
-                    <mxGeometry height="490" width="920" x="40" y="610" as="geometry"/>
+                    <mxGeometry height="518.0" width="920" x="40" y="610" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-tf-a35-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="50" y="650" as="geometry"/>
@@ -3598,14 +3754,14 @@
                 <mxCell id="pg-tf-54" edge="1" parent="1" source="pg-tf-a35-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pg-tf-a35-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-tf-a35-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Ex: checklist de abertura (diário), limpeza (semanal), pagar aluguel (todo dia 5). O conteúdo dos checklists é a Pendência 6." vertex="1">
-                    <mxGeometry height="30" width="880" x="60" y="1050" as="geometry"/>
+                <mxCell id="pg-tf-a35-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Ex: checklist de abertura (diário), limpeza (semanal), pagar aluguel (todo dia 5). Abertura: equipamentos, autoclave, toalhas e descartáveis, produtos da química; caixa e agenda (coordenadora). Fechamento: esterilização, lavanderia, limpeza, lixo separado, tudo desligado; caixa e alarme (coordenadora). Semanal: limpeza pesada (terça) e estoque (sábado). Item não feito exige motivo." vertex="1">
+                    <mxGeometry height="58.0" width="880" x="60" y="1050" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="pg-rl" name="Relatórios">
-        <mxGraphModel dx="1122" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -3642,10 +3798,10 @@
                 <mxCell id="pg-rl-a36-a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Coordenadora: agenda do dia, caixa e tarefas atrasadas (sem faturamento total nem lucro)" vertex="1">
                     <mxGeometry height="66" width="195" x="287" y="412" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-rl-a36-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Recepcionista: agenda do dia e lista de confirmação" vertex="1">
+                <mxCell id="pg-rl-a36-a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Recepcionista: agenda do dia, confirmação de amanhã e comandas abertas" vertex="1">
                     <mxGeometry height="66" width="195" x="509" y="412" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-rl-a36-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Profissional: agenda do dia, comissão da quinzena e tarefas. Auxiliar: só tarefas" vertex="1">
+                <mxCell id="pg-rl-a36-a5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="Profissional: próxima cliente (alergias em destaque), agenda do dia, comissão parcial e tarefas. Auxiliar: checklist do turno e tarefas" vertex="1">
                     <mxGeometry height="66" width="195" x="731" y="412" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-rl-a36-e" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#333333;fontSize=11;" value="Fim" vertex="1">
@@ -3687,11 +3843,11 @@
                 <mxCell id="pg-rl-24" edge="1" parent="1" source="pg-rl-a36-a5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pg-rl-a36-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-rl-a36-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="O painel da dona e o da coordenadora vieram da entrevista; os das demais são proposta (Pendência 22)." vertex="1">
+                <mxCell id="pg-rl-a36-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Painéis aprovados pela dona e pela coordenadora." vertex="1">
                     <mxGeometry height="30" width="880" x="60" y="630" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-rl-a37-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Atividade 37 — Gerar e exportar relatório (RF54, RF55, RF56, RF57, RF58, RF59, RF60, RN10, RN12)" vertex="1">
-                    <mxGeometry height="532" width="920" x="1000" y="80" as="geometry"/>
+                    <mxGeometry height="546.0" width="920" x="1000" y="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-rl-a37-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="1010" y="120" as="geometry"/>
@@ -3738,8 +3894,8 @@
                 <mxCell id="pg-rl-41" edge="1" parent="1" source="pg-rl-a37-a2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pg-rl-a37-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-rl-a37-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Relatórios da V1: faturamento por período e forma de pagamento (RF54), resultado do mês (RF55), comissões e atendimentos por profissional (RF56), contas a vencer (RF57), faltas (RF58) e mensal da contadora (RF59).&lt;br&gt;Só a dona vê lucro, comissões de todas e o relatório completo; a coordenadora exporta só o movimento do caixa (RN10, RN12).&lt;br&gt;O relatório mensal da contadora separa a parte do salão e a de cada parceira (RF59); colunas exatas: Pendência 4. Os demais relatórios são V2." vertex="1">
-                    <mxGeometry height="72" width="880" x="1020" y="520" as="geometry"/>
+                <mxCell id="pg-rl-a37-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Relatórios da V1: faturamento por período e forma de pagamento (RF54), resultado do mês (RF55), comissões e atendimentos por profissional (RF56), contas a vencer (RF57), faltas (RF58) e mensal da contadora (RF59).&lt;br&gt;Só a dona vê lucro, comissões de todas e o relatório completo; a coordenadora exporta só o movimento do caixa (RN10, RN12).&lt;br&gt;O relatório mensal da contadora separa a parte do salão e a de cada parceira (RF59); formato: .xlsx com 6 abas (Resumo, Entradas, Repasse às parceiras, Despesas, Gorjetas CLT, Ajustes), PDF só do Resumo, até o dia 5, sem nome de cliente. Os demais relatórios são V2." vertex="1">
+                    <mxGeometry height="86.0" width="880" x="1020" y="520" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -3825,7 +3981,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pg-sc" name="Scheduler">
-        <mxGraphModel dx="1122" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2027" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -3833,7 +3989,7 @@
                     <mxGeometry height="30" width="1880" x="40" y="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-sc-asch-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Scheduler — Jobs agendados (RF28, RF29, RF49, RF52, RNF08)" vertex="1">
-                    <mxGeometry height="450" width="920" x="40" y="80" as="geometry"/>
+                    <mxGeometry height="464" width="920" x="40" y="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-sc-asch-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="50" y="120" as="geometry"/>
@@ -3882,11 +4038,11 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="pg-sc-asch-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Jobs: tarefas recorrentes a partir de task_template (RF52); aviso de contas a vencer para a dona (RF49); lista de confirmação do próximo dia de funcionamento (Atividade 13, RF29);&lt;br&gt;fechamentos no fim da quinzena (Atividade 29); bloqueios e faltas por profissional no último dia do mês (RF28); backup diário do PostgreSQL para a nuvem (RNF08).&lt;br&gt;Serviço contínuo, sem fim: volta a dormir até o próximo minuto.&lt;br&gt;Quantos dias antes do vencimento avisar: Pendência 20. Jobs dentro da api ou em container próprio: Pendência 21." vertex="1">
-                    <mxGeometry height="100" width="880" x="60" y="410" as="geometry"/>
+                <mxCell id="pg-sc-asch-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Jobs: tarefas recorrentes a partir de task_template (RF52); aviso de contas a vencer para a dona (RF49); lista de confirmação do próximo dia de funcionamento (Atividade 13, RF29);&lt;br&gt;fechamentos no fim da quinzena (Atividade 29); bloqueios e faltas por profissional no último dia do mês (RF28); backup diário do PostgreSQL para a nuvem (RNF08).&lt;br&gt;Serviço contínuo, sem fim: volta a dormir até o próximo minuto.&lt;br&gt;Contas a vencer: aviso 3 dias antes e no dia, configurável. Jobs num único processo da api, com trava contra execução dupla; reavaliar container separado na segunda unidade." vertex="1">
+                    <mxGeometry height="114" width="880" x="60" y="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-sc-antf-moldura" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=12;spacingTop=8;fontStyle=1;fontSize=14;" value="Notificações — Envio de push (RNF03)" vertex="1">
-                    <mxGeometry height="630" width="920" x="1000" y="80" as="geometry"/>
+                    <mxGeometry height="644" width="920" x="1000" y="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="pg-sc-antf-raia0-linha" parent="1" style="line;strokeWidth=1;dashed=1;strokeColor=#cccccc;html=1;" value="" vertex="1">
                     <mxGeometry height="10" width="900" x="1010" y="120" as="geometry"/>
@@ -3953,85 +4109,8 @@
                 <mxCell id="pg-sc-38" edge="1" parent="1" source="pg-sc-antf-a4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#666666;fontSize=10;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pg-sc-antf-e" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="pg-sc-antf-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Precisa ser testado no iPhone da dona antes da entrega (Pendência 15)." vertex="1">
-                    <mxGeometry height="30" width="880" x="1020" y="660" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="pg-pe" name="Pendências e mudanças">
-        <mxGraphModel dx="2692" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="pg-pe-titulo" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" value="Pendências e mudanças" vertex="1">
-                    <mxGeometry height="30" width="900" x="40" y="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p1" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;1.&lt;/b&gt; Gorjeta: vai 100% para a profissional, fora da comissão e sem taxa? Entra no relatório da contadora? (validar com a contadora) &lt;font color=&#39;#888888&#39;&gt;(At. 22)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="70" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p2" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;2.&lt;/b&gt; Nota fiscal no regime salão-parceiro: quem emite o quê, por atendimento ou por mês, e se o sistema emitirá no futuro. (contadora) &lt;font color=&#39;#888888&#39;&gt;(geral)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p3" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;3.&lt;/b&gt; Legalidade do desconto da taxa da maquininha e do custo de produto na comissão. (contadora) &lt;font color=&#39;#888888&#39;&gt;(At. 28)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="170" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p4" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;4.&lt;/b&gt; Colunas e formato exatos do relatório mensal da contadora. &lt;font color=&#39;#888888&#39;&gt;(At. 37)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="220" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p5" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;5.&lt;/b&gt; Prazos de bloqueio (7 dias / 48h) e limites da coordenadora (15% de desconto, 20% de acréscimo). (coordenadora) &lt;font color=&#39;#888888&#39;&gt;(At. 15, 20, 21)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="270" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p6" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;6.&lt;/b&gt; Conteúdo dos checklists de abertura e fechamento. (coordenadora) &lt;font color=&#39;#888888&#39;&gt;(At. 35)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="320" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p7" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;7.&lt;/b&gt; Durações reais de cada serviço e de cada variação de tamanho. (coordenadora) &lt;font color=&#39;#888888&#39;&gt;(At. 7)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="370" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p8" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;8.&lt;/b&gt; Custo de produto dos serviços químicos na V1: fixo por serviço ou informado na comanda. &lt;font color=&#39;#888888&#39;&gt;(At. 7, 28)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="420" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p9" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;9.&lt;/b&gt; Cortesia: hoje só a dona; avaliar se a coordenadora também poderá dar. &lt;font color=&#39;#888888&#39;&gt;(At. 21)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="470" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p10" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;10.&lt;/b&gt; Conferir se os % de comissão batem com os contratos de parceria de cada profissional. &lt;font color=&#39;#888888&#39;&gt;(At. 6, 29)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="520" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p11" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;11.&lt;/b&gt; Limite de acréscimo da recepcionista (só o da coordenadora foi definido). &lt;font color=&#39;#888888&#39;&gt;(At. 20)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="570" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p12" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;12.&lt;/b&gt; Quais são os “dias de maior fluxo” da regra de folga (fixos ou configuráveis). &lt;font color=&#39;#888888&#39;&gt;(At. 16)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="620" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p13" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;13.&lt;/b&gt; Regra para clientes com faltas recorrentes (quantas faltas, em que período, qual consequência). &lt;font color=&#39;#888888&#39;&gt;(At. 12)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="670" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p14" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;14.&lt;/b&gt; Importar os ~1.500 contatos e as fichas de coloração, ou digitar à mão. &lt;font color=&#39;#888888&#39;&gt;(At. 4)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="720" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p15" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;15.&lt;/b&gt; Testar o push no iPhone da dona; se não atender, reavaliar o app nativo. &lt;font color=&#39;#888888&#39;&gt;(Notificações)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="770" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p16" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;16.&lt;/b&gt; Tempo de resposta esperado não definido. &lt;font color=&#39;#888888&#39;&gt;(geral)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="820" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p17" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;17.&lt;/b&gt; Quem pode cancelar ou estornar pagamento (recepcionista, coordenadora, só a dona?). &lt;font color=&#39;#888888&#39;&gt;(At. 23)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="870" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p18" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;18.&lt;/b&gt; Quem lança sangria, pequena despesa e vale: a recepcionista também? &lt;font color=&#39;#888888&#39;&gt;(At. 25)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="920" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p19" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;19.&lt;/b&gt; Validade do link de redefinição de senha (proposta: 1 hora). &lt;font color=&#39;#888888&#39;&gt;(At. 2)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="970" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p20" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;20.&lt;/b&gt; Com quantos dias de antecedência avisar as contas a vencer. &lt;font color=&#39;#888888&#39;&gt;(Scheduler)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="1020" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p21" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;21.&lt;/b&gt; Jobs agendados dentro da api (APScheduler) ou em um container scheduler separado. &lt;font color=&#39;#888888&#39;&gt;(Macro, Scheduler)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="1070" as="geometry"/>
-                </mxCell>
-                <mxCell id="pg-pe-p22" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=middle;spacingLeft=6;spacingTop=4;" value="&lt;b&gt;22.&lt;/b&gt; Conteúdo do painel da recepcionista, da profissional e da auxiliar (proposta no diagrama). &lt;font color=&#39;#888888&#39;&gt;(At. 36)&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="40" width="1200" x="40" y="1120" as="geometry"/>
+                <mxCell id="pg-sc-antf-nota" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=14;fontSize=10;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;" value="Critério de aceite: testar no iPhone da dona antes da entrega. Plano B: se o push falhar no iPhone, os avisos da dona (aprovações e contas a vencer) também vão por e-mail." vertex="1">
+                    <mxGeometry height="44" width="880" x="1020" y="660" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
