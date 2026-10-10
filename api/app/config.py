@@ -1,3 +1,10 @@
+"""
+Arquivo config.py
+
+Configurações da aplicação. Carrega as variáveis dos arquivos .env da API e do Postgres,
+monta a URL do banco e define as classes de configuração usadas no create_app.
+"""
+
 import os
 from pathlib import Path
 from datetime import timedelta
@@ -39,6 +46,7 @@ DATABASE_URL = URL.create(
 
 # Configurações base
 class BaseConfig:
+    """Configurações comuns a todos os ambientes (chaves, banco e JWT)."""
     SECRET_KEY = os.environ.get("SECRET_KEY")
     JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY")
 
@@ -51,5 +59,6 @@ class BaseConfig:
 
 # Configurações de desenvolvimento
 class DevConfig(BaseConfig):
+    """Configurações de desenvolvimento: herda a base e ativa o modo debug."""
     DEBUG = True
     

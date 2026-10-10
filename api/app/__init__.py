@@ -1,3 +1,10 @@
+"""
+Arquivo __init__.py (pacote app)
+
+Fábrica da aplicação: create_app monta o Flask, conecta as extensões e registra
+handlers de erro, callbacks do JWT e blueprints.
+"""
+
 from flask import Flask
 
 from app.config import DevConfig
@@ -7,6 +14,12 @@ from app.common.errors import register_error_handlers
 
 # Cria a aplicação da api
 def create_app(config_class= DevConfig):
+    """
+    Cria e configura uma instância da aplicação.
+
+    Args:
+        config_class: classe de configuração a usar (DevConfig por padrão.
+    """
     app = Flask(__name__)
     app.config.from_object(config_class)
 
