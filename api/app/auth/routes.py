@@ -7,14 +7,15 @@ da parte HTTP: leem e validam o formato do corpo e delegam as regras para o serv
 
 login (POST /login): valida e-mail e senha recebidos e devolve o access token gerado pelo services.login.
 
-me (GET /me): rota protegida por token; devolve os dados do usuário dono do token (current_user).
+me (GET /me): rota protegida por token e restrida a usuários ativos; devolve os dados do usuário dono do token (current_user).
 """
 
 from flask import Blueprint, jsonify, request
+from flask_jwt_extended import current_user, jwt_required
 
 from app.auth import services
 from app.common.errors import ApiError
-from flask_jwt_extended import current_user, jwt_required
+from app.common.decorators import active_required
 
 # Agrupa as rotas de autenticação
 auth_bp = Blueprint("auth", __name__)
@@ -45,6 +46,7 @@ def login():
 # Retorna os dados do usuário dono do token
 @auth_bp.get("/me")
 @jwt_required()
+@active_required
 def me():
 
     # current_user foi carregado pelo user_lookup_loader
