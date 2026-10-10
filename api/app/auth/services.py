@@ -3,11 +3,6 @@ Arquivo services.py
 
 Regras de negócio da autenticação. Não conhece HTTP (request/jsonify): recebe dados, devolve dados
 e lança ApiError quando uma regra é violada.
-
-
-issue_token: gera o access token de um usuário, com o id dele no campo "sub".
-
-login: confere as credenciais (usuário existe, senha confere, usuário ativo) e devolve o token.
 """
 
 
@@ -19,6 +14,7 @@ from app.models import User
 
 # Gera o token de acesso de um usuário
 def issue_token(user: User) -> dict:
+    """Gera o access token de um usuário, com o id dele no campo "sub"."""
 
     # O identity vira o campo "sub" do token
     access_token = create_access_token(
@@ -31,6 +27,7 @@ def issue_token(user: User) -> dict:
 
 # Confere as credenciais e devolve o token:
 def login(email: str, password: str) -> dict:
+    """Confere as credenciais (usuário existe, senha confere, usuário ativo) e devolve o token."""
 
     # Busca o usuário pelo email
     user = db.session.execute(db.select(User).filter_by(email=email)).scalar_one_or_none()
