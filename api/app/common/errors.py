@@ -34,7 +34,7 @@ class ApiError(Exception):
 def register_error_handlers(app):
 
     # Sempre que um ApiError não for tratado em nenhum lugar, o Flask chama essa função
-    @app.error_handler(ApiError)
+    @app.errorhandler(ApiError)
     def handle_api_error(error):
 
         # Monta a resposta com a mensagem e o status do erro
