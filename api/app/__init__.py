@@ -10,7 +10,7 @@ def create_app(config_class= DevConfig):
     app = Flask(__name__)
     app.config.from_object(config_class)
 
-    """Extensões"""
+    # Extensões
     db.init_app(app)
 
     # Importa os modelos necessários para o migrate
@@ -24,6 +24,12 @@ def create_app(config_class= DevConfig):
 
     # Registra os handlers de erros
     register_error_handlers(app)
+
+    # Importa o blueprint de autenticação
+    from app.auth.routes import auth_bp
+
+    # Registra as rotas de autenticação com o prefixo
+    app.register_blueprint(auth_bp, url_prefix= "/api/auth")
 
     # Endpoint de check da api
     @app.get("/api/health")
