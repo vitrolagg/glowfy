@@ -1,5 +1,5 @@
 """
-Arquivo erros.py
+Arquivo errors.py
 
 Tratamento centralizado de erros da API. A função register_error_handlers é chamada no create_app
 e registra os handlers abaixo. A classe ApiError é o tipo de exceção específico da api para erros esperados.
@@ -16,7 +16,7 @@ ao invés da página HTML, mantendo o código do próprio erro.
 from flask import jsonify
 from werkzeug.exceptions import HTTPException
 
-# Exeção própria da API: carrega o status HTTP e a mensagem
+# Exceção própria da API: carrega o status HTTP e a mensagem
 class ApiError(Exception):
 
     def __init__(self, status: int, message: str):
