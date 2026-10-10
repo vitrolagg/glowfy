@@ -61,4 +61,16 @@ class BaseConfig:
 class DevConfig(BaseConfig):
     """Configurações de desenvolvimento: herda a base e ativa o modo debug."""
     DEBUG = True
-    
+
+class TestConfig(BaseConfig):
+    """Configurações dos testes: banco separado e chaves fixas, independentes do .env"""
+
+    # Ativa o modo de teste do Flask
+    TESTING = True
+
+    # Mesmo servidor mas no banco de testes
+    SQLALCHEMY_DATABASE_URI = DATABASE_URL.set(database=f"{DATABASE_URL.database}_test")
+
+    # Chaves fixas para os testes não dependerem do .env
+    SECRET_KEY = "test-secret"
+    JWT_SECRET_KEY = "test-jwt-secret-com-tamanho-suficiente-32"
