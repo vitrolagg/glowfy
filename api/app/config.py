@@ -1,8 +1,10 @@
 import os
 from pathlib import Path
+from datetime import timedelta
 
 from dotenv import load_dotenv
 from sqlalchemy import URL
+
 
 # Diretório raiz da aplicação
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
@@ -38,10 +40,14 @@ DATABASE_URL = URL.create(
 # Configurações base
 class BaseConfig:
     SECRET_KEY = os.environ.get("SECRET_KEY")
+    JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY")
 
     # Banco de dados
     SQLALCHEMY_DATABASE_URI = DATABASE_URL
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+    # Tempo de vida do token de acesso jwt
+    JWT_ACCESS_TOKEN_EXPIRES = timedelta(hours=12)
 
 # Configurações de desenvolvimento
 class DevConfig(BaseConfig):
