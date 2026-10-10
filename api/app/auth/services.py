@@ -1,7 +1,13 @@
 """
 Arquivo services.py
 
-Regras de negócio do autenticação. 
+Regras de negócio da autenticação. Não conhece HTTP (request/jsonify): recebe dados, devolve dados
+e lança ApiError quando uma regra é violada.
+
+
+issue_token: gera o access token de um usuário, com o id dele no campo "sub".
+
+login: confere as credenciais (usuário existe, senha confere, usuário ativo) e devolve o token.
 """
 
 
@@ -27,9 +33,7 @@ def issue_token(user: User) -> dict:
 def login(email: str, password: str) -> dict:
 
     # Busca o usuário pelo email
-    user = db.session.execute(
-        db.select(User).filter_by(email=email)
-        ).scalar_one_or_none()
+    user = db.session.execute(db.select(User).filter_by(email=email)).scalar_one_or_none()
 
     # Se não existir ou a senha não confere
     if user is None or not user.check_password(password):
