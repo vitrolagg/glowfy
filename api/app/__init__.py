@@ -22,6 +22,12 @@ def create_app(config_class= DevConfig):
     # Conecta o JWT ao app
     jwt.init_app(app)
 
+    # Importa a função que registra os callbacks do jwt
+    from app.auth.jwt_callbacks import register_jwt_callbacks
+
+    # registra os callbacks do jwt
+    register_jwt_callbacks(jwt)
+
     # Registra os handlers de erros
     register_error_handlers(app)
 

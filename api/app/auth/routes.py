@@ -1,11 +1,20 @@
 """
 Arquivo routes.py
+
+Rotas HTTP da autenticação, registradas no create_app com o prefixo /api/auth. Cuidam apenas
+da parte HTTP: leem e validam o formato do corpo e delegam as regras para o services.py.
+
+
+login (POST /login): valida e-mail e senha recebidos e devolve o access token gerado pelo services.login.
+
+me (GET /me): rota protegida por token; devolve os dados do usuário dono do token (current_user).
 """
 
 from flask import Blueprint, jsonify, request
 
 from app.auth import services
 from app.common.errors import ApiError
+from flask_jwt_extended import current_user, jwt_required
 
 # Agrupa as rotas de autenticação
 auth_bp = Blueprint("auth", __name__)
@@ -28,7 +37,16 @@ def login():
     if not email or not isinstance(password, str) or password== "":
 
         # Erro de formato
-        raise ApiError(400, "email e senha são obrigatórios")
+        raise ApiError(400, "Email e senha são obrigatórios")
 
     # Delega para o service e responde
     return jsonify(services.login(email, password)), 200
+
+# Retorna os dados do usuário dono do token
+@auth_bp.get("/me")
+@jwt_required()
+def me():
+
+    # current_user foi carregado pelo user_lookup_loader
+    return jsonify(id=current_user.id, email=current_user.email), 200
+
