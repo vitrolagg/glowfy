@@ -6,3 +6,6 @@ __pycache__/
 
 # Variáveis de ambiente
 .env
+
+# Arquivo de configuração do vscode
+.vscode/
