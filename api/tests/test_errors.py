@@ -1,5 +1,5 @@
 """
-Arquivo test_errors.py
+Arquivo: test_errors.py
 
 Este arquivo contém testes para a classe ApiError, que é uma exceção personalizada usada para lidar com erros de API. Os testes verificam se a exceção armazena corretamente o código de status e a mensagem de erro, bem como se a mensagem corresponde ao esperado.
 """

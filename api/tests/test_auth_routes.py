@@ -42,7 +42,7 @@ def test_login_without_password_returns_400(client):
         "email": "teste@glowfy.com",
     })
 
-    # Stats esperado
+    # Status esperado
     assert response.status_code == 400
 
     # Corpo esperado

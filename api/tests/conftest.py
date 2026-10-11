@@ -1,5 +1,5 @@
 """
-Arquivo conftest.py
+Arquivo: conftest.py
 
 Fixtures compartilhadas por todos os testes. O pytest carrega este arquivo automaticamente.
 """
