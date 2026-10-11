@@ -10,6 +10,7 @@ from app import create_app
 from app.config import TestConfig
 from app.extensions import db
 from app.models import User
+from app.auth.services import issue_token
 
 @pytest.fixture
 def app():
@@ -53,3 +54,11 @@ def client(app):
 
     # Cria e retorna o cliente de testes a partir do app de testes
     return app.test_client()
+
+@pytest.fixture
+def auth_header(db_user):
+    """Header Authorization com um token válido do db_user"""
+
+    token = issue_token(db_user)["access_token"]
+
+    return {"Authorization": f"Bearer {token}"}
