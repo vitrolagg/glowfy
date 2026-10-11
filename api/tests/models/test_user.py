@@ -1,5 +1,5 @@
 """
-Arquivo: test_user_model.py
+Arquivo: test_user.py
 
 Testes do model User que não precisam de banco: normalização de email e hash de senha.
 """

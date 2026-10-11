@@ -1,5 +1,5 @@
 """
-Arquivo: test_auth_routes.py
+Arquivo: test_routes.py
 
 Testes das rotas de autenticação via test client do Flask, conferindo status HTTP e corpo JSON.
 """

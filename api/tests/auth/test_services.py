@@ -1,5 +1,5 @@
 """
-Arquivo: test_auth_service.py
+Arquivo: test_services.py
 
 Testes das regras de autenticação, usando o banco de testes
 """
