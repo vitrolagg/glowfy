@@ -27,7 +27,7 @@ def register_jwt_callbacks(jwt):
     # Token válido, mas o lookup devolveu None
     @jwt.user_lookup_error_loader
     def user_lookup_error_callback(_jwt_header, _jwt_data):
-        """user_lookup_error_callback: token válido, mas o usuário não existe mais."""
+        """user_lookup_error_callback: token válido, mas o usuário não existe."""
 
         # Responde no padrão da API
         return jsonify(error="Usuário não encontrado"), 401
