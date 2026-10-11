@@ -1,7 +1,7 @@
 """
 Arquivo conftest.py
 
-Fixtures compartilhadas por todos os testes. O pytest carrega ester arquivo automaticamente.
+Fixtures compartilhadas por todos os testes. O pytest carrega este arquivo automaticamente.
 """
 
 import pytest
@@ -27,8 +27,7 @@ def app():
         # Entrega o app para o teste; a fixture pausa aqui enquanto o teste roda
         yield app
 
-        # Depois do teste: descarta a seção e apaga todas as tabelas
-
+        # Depois do teste: descarta a sessão e apaga todas as tabelas
         db.session.remove()
         db.drop_all()
 
@@ -47,3 +46,10 @@ def db_user(app):
     db.session.commit()
 
     return user
+
+@pytest.fixture
+def client(app):
+    """Cliente HTTP de testes para requisições ao app sem subir servidor"""
+
+    # Cria e retorna o cliente de testes a partir do app de testes
+    return app.test_client()
