@@ -4,6 +4,8 @@ Arquivo: test_routes.py
 Testes das rotas de autenticação via test client do Flask, conferindo status HTTP e corpo JSON.
 """
 
+from datetime import timedelta
+
 from app.extensions import db
 from flask_jwt_extended import create_access_token
 
@@ -137,3 +139,18 @@ def test_route_me_with_unknown_user_returns_401(client):
 
     # Corpo esperado
     assert response.get_json() == {"error": "Usuário não encontrado"}
+
+# Token expirado deve responder 401
+def test_route_me_with_expired_token_returns_401(client):
+
+    # Cria token que expira em 2 segundos
+    token = create_access_token(identity="1", expires_delta=timedelta(seconds=-1))
+
+    # Faz requisição usando o token criado
+    response = client.get("/api/auth/me", headers= {"Authorization": f"Bearer {token}"})
+
+    # Status esperado
+    assert response.status_code == 401
+    
+    # Corpo esperado
+    assert response.get_json() == {"error": "Token expirado"}
