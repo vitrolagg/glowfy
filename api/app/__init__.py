@@ -50,6 +50,12 @@ def create_app(config_class= DevConfig):
     # Registra as rotas de autenticação com o prefixo
     app.register_blueprint(auth_bp, url_prefix= "/api/auth")
 
+    # Importa o comando de criação de usuário
+    from app.users.cli import create_user_command
+    
+    # Registra o comando de criação de usuário
+    app.cli.add_command(create_user_command)
+
     # Endpoint de check da api
     @app.get("/api/health")
     def health():
