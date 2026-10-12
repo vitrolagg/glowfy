@@ -62,3 +62,10 @@ def auth_header(db_user):
     token = issue_token(db_user)["access_token"]
 
     return {"Authorization": f"Bearer {token}"}
+
+@pytest.fixture
+def runner(app):
+    """Executor de comandos do Flask para testes, sem abrir terminal."""
+
+    # Cria o executor de comandos a partir do app de testes
+    return app.test_cli_runner()
