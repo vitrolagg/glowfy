@@ -1,0 +1,27 @@
+services:
+
+  # Serviço do banco de dados
+  postgres:
+
+    # Imagem oficial do postgres
+    image: postgres:17
+
+    # Envia as variáveis para dentro do container
+    env_file:
+      - ./postgres/.env
+
+    # Nome do container
+    container_name: postgres
+
+    # Container reinicia sozinho, execot quando parado manualmente
+    restart: unless-stopped
+
+    # Mapeia a porta da máquina para a porta do container (apenas para desenvolvimento)
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
